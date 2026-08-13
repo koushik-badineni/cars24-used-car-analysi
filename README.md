@@ -407,7 +407,7 @@ It contains:
 
 **Batch:** 513
 
-* GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+* GitHub: https://github.com/koushik-badineni
 * LinkedIn:https://www.linkedin.com/in/manikanta-koushik-61a935267/
 
 ---
