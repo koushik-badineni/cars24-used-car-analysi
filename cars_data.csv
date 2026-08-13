@@ -1,0 +1,774 @@
+Car Name,Kilometers,Fuel,Transmission,Registration,EMI,Final Price,Location
+2019 Maruti Swift,58358,CNG,Manual,DL-11,"EMI ₹8,120/m*",Account ," Gaur City mall, Multilevel parking, Greater Noida"
+2015 Hyundai Eon,43518,Petrol,Manual,DL-13,₹5.33L₹4.60 lakh+ other charges,₹4.05 lakh," Metro Walk, Rohini, New Delhi"
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,DL-12,"EMI ₹7,918/m*",₹1.77 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2015 Honda Amaze,40807,Petrol,Manual,DL-14,₹4.40L₹4.05 lakh+ other charges,₹2.13 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2019 Maruti Swift,57241,Petrol,Manual,DL-12,"EMI ₹8,826/m*",₹2.35 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2016 Tata Tiago,79222,Petrol,Manual,DL-10,₹5.64L₹5.00 lakh+ other charges,₹3.65 lakh," Wave One Mall, Sec-18, Noida"
+2019 Datsun Redi Go,34061,Petrol,Manual,HR-21,"EMI ₹9,542/m*",₹2.48 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2019 Maruti Swift,30678,Petrol,Manual,UP-13,₹4.99L₹2.87 lakh+ other charges,₹1.79 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2016 Hyundai Elite i20,65503,Petrol,Manual,HR-26,"EMI ₹4,661/m*",₹3.75 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2015 Honda City,119495,Petrol,Manual,UP-25,₹1.88L₹1.77 lakh+ other charges,₹3.09 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2014 Hyundai Grand i10,58791,Petrol,Manual,UP-80,"EMI ₹2,991/m*",₹2.75 lakh," Metro Walk, Rohini, New Delhi"
+2018 Datsun Redi Go,60114,CNG,Manual,HR-14,₹2.39L₹1.53 lakh+ other charges,₹1.81 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2017 Maruti Wagon R 1.0,22695,Petrol,Manual,HR-10,"EMI ₹7,452/m*",₹1.79 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2024 KIA SONET,48161,Petrol,Manual,UP-23,₹3.65L₹3.35 lakh+ other charges,₹2.33 lakh," Metro Walk, Rohini, New Delhi"
+2019 Hyundai Grand i10,50600,Petrol,Manual,HR-72,"EMI ₹7,284/m*",₹7.25 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2019 MG HECTOR,61573,Petrol,Manual,UP-80,₹4.37L₹4.13 lakh+ other charges,₹3.15 lakh," Metro Walk, Rohini, New Delhi"
+2017 Maruti Swift,86606,Petrol,Manual,HR-14,"EMI ₹10,025/m*",₹7.69 lakh," Metro Walk, Rohini, New Delhi"
+2017 Maruti Swift,79321,Petrol,Manual,DL-12,₹2.13 lakh+ other charges,₹2.80 lakh, DLF South Court Saket
+2021 Tata PUNCH,50698,CNG,Manual,HR-51,"EMI ₹7,326/m*",₹2.50 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2018 Maruti Wagon R 1.0,85527,Petrol,Manual,HR-02,₹4.25L₹4.15 lakh+ other charges,₹4.65 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2021 Maruti Swift,62963,CNG,Manual,UP-80,"EMI ₹6,188/m*",₹2.65 lakh," Metro Walk, Rohini, New Delhi"
+2023 Toyota Glanza,60527,Petrol,Manual,HR-51,₹2.40L₹2.35 lakh+ other charges,₹4.60 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2019 Ford FREESTYLE,55165,Diesel,Manual,HR-51,"EMI ₹8,279/m*",₹5.00 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2017 Renault Kwid,86916,Petrol,Manual,HR-06,₹4.89L₹4.69 lakh+ other charges,₹2.87 lakh," Metro Walk, Rohini, New Delhi"
+2016 Maruti Swift,65394,Petrol,Manual,DL-11,"EMI ₹4,985/m*",₹1.53 lakh," Metro Walk, Rohini, New Delhi"
+2022 Maruti Swift,66173,Petrol,Manual,DL-13,₹2.60L₹2.55 lakh+ other charges,₹3.35 lakh," Metro Walk, Rohini, New Delhi"
+2019 Tata NEXON,43084,Petrol,Manual,DL-12,"EMI ₹6,443/m*",₹4.13 lakh," Metro Walk, Rohini, New Delhi"
+2022 Tata PUNCH,23927,Petrol,Manual,DL-14,₹3.65 lakh+ other charges,₹4.15 lakh, DLF South Court Saket
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,DL-12,"EMI ₹2,879/m*",₹4.69 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2018 Renault Kwid,62282,Petrol,Manual,DL-10,₹2.42L₹1.63 lakh+ other charges,₹2.55 lakh, Rajouri Garden
+2022 Tata NEXON,48769,Petrol,Manual,HR-21,"EMI ₹5,517/m*",₹1.63 lakh," Metro Walk, Rohini, New Delhi"
+2020 Renault TRIBER,42304,Petrol,Manual,UP-13,₹2.69L₹2.48 lakh+ other charges,₹6.10 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2018 Tata Tiago,48065,Petrol,Manual,HR-26,"EMI ₹3,158/m*",₹3.43 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2023 Volkswagen TAIGUN,58195,Petrol,Manual,UP-25,₹1.79 lakh+ other charges,₹3.19 lakh, Rajouri Garden
+2017 Hyundai Creta,70830,Petrol,Manual,UP-80,"EMI ₹6,620/m*",₹6.88 lakh," Metro Walk, Rohini, New Delhi"
+2019 Maruti Baleno,59035,Petrol,Manual,HR-14,₹3.90L₹3.75 lakh+ other charges,₹4.55 lakh," Metro Walk, Rohini, New Delhi"
+2012 Maruti Alto 800,71627,CNG,Manual,HR-10,"EMI ₹10,775/m*",₹3.92 lakh," Metro Walk, Rohini, New Delhi"
+2023 Tata PUNCH,78363,Petrol,Manual,UP-23,₹6.26L₹6.10 lakh+ other charges,₹1.34 lakh," Metro Walk, Rohini, New Delhi"
+2016 Hyundai Creta,70369,Petrol,Manual,HR-72,"EMI ₹6,867/m*",₹4.79 lakh," Metro Walk, Rohini, New Delhi"
+2023 Maruti Alto K10,68841,Petrol,Manual,UP-80,₹3.43L₹3.09 lakh+ other charges,₹3.67 lakh," Metro Walk, Rohini, New Delhi"
+2019 Maruti Swift,58358,CNG,Manual,HR-14,"EMI ₹7,918/m*",₹3.26 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2015 Hyundai Eon,43518,Petrol,Manual,DL-12,₹4.40L₹4.05 lakh+ other charges,Account ," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,HR-51,"EMI ₹4,661/m*",₹4.05 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2015 Honda Amaze,40807,Petrol,Manual,HR-02,₹1.88L₹1.77 lakh+ other charges,₹1.77 lakh," Wave One Mall, Sec-18, Noida"
+2019 Maruti Swift,57241,Petrol,Manual,UP-80,"EMI ₹10,025/m*",₹2.13 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2016 Tata Tiago,79222,Petrol,Manual,HR-51,₹2.13 lakh+ other charges,₹2.35 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2019 Datsun Redi Go,34061,Petrol,Manual,HR-51,"EMI ₹6,188/m*",₹3.65 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2019 Maruti Swift,30678,Petrol,Manual,HR-06,₹2.40L₹2.35 lakh+ other charges,₹2.48 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2016 Hyundai Elite i20,65503,Petrol,Manual,HR-26,"EMI ₹6,443/m*",₹1.79 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2015 Honda City,119495,Petrol,Manual,HR-72,₹3.65 lakh+ other charges,₹3.75 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2014 Hyundai Grand i10,58791,Petrol,Manual,HR-26,"EMI ₹5,517/m*",₹3.09 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2018 Datsun Redi Go,60114,CNG,Manual,HR-10,₹2.69L₹2.48 lakh+ other charges,₹2.75 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2017 Maruti Wagon R 1.0,22695,Petrol,Manual,HR-26,"EMI ₹3,158/m*",₹1.81 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2024 KIA SONET,48161,Petrol,Manual,HR-10,₹1.79 lakh+ other charges,₹1.79 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2019 Hyundai Grand i10,50600,Petrol,Manual,HR-51,"EMI ₹6,620/m*",₹2.33 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2019 MG HECTOR,61573,Petrol,Manual,HR-06,₹3.90L₹3.75 lakh+ other charges,₹7.25 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2017 Maruti Swift,86606,Petrol,Manual,HR-80,"EMI ₹6,867/m*",₹3.15 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2017 Maruti Swift,79321,Petrol,Manual,HR-26,₹3.43L₹3.09 lakh+ other charges,₹7.69 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2021 Tata PUNCH,50698,CNG,Manual,HR-10,"EMI ₹7,242/m*",₹2.80 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2018 Maruti Wagon R 1.0,85527,Petrol,Manual,HR-07,₹3.70L₹2.75 lakh+ other charges,₹2.50 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021 Maruti Swift,62963,CNG,Manual,HR-36,"EMI ₹6,025/m*",₹4.65 lakh, Shilapati Mohalla Jind
+2023 Toyota Glanza,60527,Petrol,Manual,HR-08,₹2.05L₹1.81 lakh+ other charges,₹2.65 lakh, Kurukshetra University Thanesar Haryana
+2019 Ford FREESTYLE,55165,Diesel,Manual,HR-51,"EMI ₹3,982/m*",₹4.60 lakh, Laxman colony Street no 1 Laxman colony Street no 1 Thanesar
+2017 Renault Kwid,86916,Petrol,Manual,HR-06,₹1.85L₹1.79 lakh+ other charges,₹5.00 lakh, Vashisht colony Vashisht colony Kurukshetra
+2016 Maruti Swift,65394,Petrol,Manual,HR-06,"EMI ₹4,555/m*",₹2.87 lakh, Vill Kishanpur Pipli Dt Kurukshetra Near Gurudwar Kurukshetra
+2022 Maruti Swift,66173,Petrol,Manual,HR-26,₹2.57L₹2.33 lakh+ other charges,₹1.53 lakh, THANESAR KURUKSHETRA Kurukshetra
+2019 Tata NEXON,43084,Petrol,Manual,HR-98,"EMI ₹12,796/m*",₹3.35 lakh, Sector 4 Kurukshetra Haryana
+2022 Tata PUNCH,23927,Petrol,Manual,HR-10,₹7.25 lakh+ other charges,₹4.13 lakh, Kurukshetra Kurukshetra Kurukshetra
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,UP-13,"EMI ₹5,559/m*",₹4.15 lakh, Kurukshetra Haryana India
+2018 Renault Kwid,62282,Petrol,Manual,UP-25,₹3.15 lakh+ other charges,₹4.69 lakh, Ambala Division Sector 30 Kurukshetra
+2022 Tata NEXON,48769,Petrol,Manual,UP-80,"EMI ₹13,580/m*",₹2.55 lakh, Sector 10 Kurukshetra Haryana
+2020 Renault TRIBER,42304,Petrol,Manual,HR-14,₹7.93L₹7.69 lakh+ other charges,₹1.63 lakh, Mohan nagar kurukshetra Mohan nagar kurukshetra Kurukshetra
+2018 Tata Tiago,48065,Petrol,Manual,HR-10,"EMI ₹5,474/m*",₹6.10 lakh, Hargobind nagar near Balaji mandir Hargobind nagar near Balaji mandir Kurukshetra
+2023 Volkswagen TAIGUN,58195,Petrol,Manual,UP-23,₹3.11L₹2.80 lakh+ other charges,₹3.43 lakh, darra khera Darra Khera Thanesar
+2017 Hyundai Creta,70830,Petrol,Manual,UP-80,"EMI ₹4,886/m*",₹3.19 lakh, Kurukshetra Thanesar Haryana
+2019 Maruti Baleno,59035,Petrol,Manual,DL-11,₹2.70L₹2.50 lakh+ other charges,₹6.88 lakh, Sector 3 Kurukshetra Haryana
+2012 Maruti Alto 800,71627,CNG,Manual,HR-14,"EMI ₹8,209/m*",₹4.55 lakh, Multi storey building District court kurukshetra Panipat
+2023 Tata PUNCH,78363,Petrol,Manual,DL-12,₹4.86L₹4.65 lakh+ other charges,₹3.92 lakh, Ansal Sushant City Ansal Sushant City Umri
+2016 Hyundai Creta,70369,Petrol,Manual,HR-51,"EMI ₹4,673/m*",₹1.34 lakh, Locality :- Kurukshetra Kurukshetra
+2023 Maruti Alto K10,68841,Petrol,Manual,DL-10,₹2.65 lakh+ other charges,₹4.79 lakh, Kurukshetra University Thanesar Haryana
+2023 Toyota Glanza,60527,Petrol,Manual,HR-06,"EMI ₹8,120/m*",₹3.67 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,HR-51,₹5.33L₹4.60 lakh+ other charges,₹3.26 lakh," Metro Walk, Rohini, New Delhi"
+2015 Hyundai Creta,66754,Petrol,Manual,HR-06,"EMI ₹8,826/m*",Account ," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2016 Honda City,73377,Petrol,Manual,UK-06,₹5.64L₹5.00 lakh+ other charges,Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2015 Ford Ecosport,34404,Petrol,Manual,HR-51,"EMI ₹9,542/m*",₹5.00 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2022 Tata ALTROZ,77101,Petrol,Manual,HR-08,₹4.99L₹2.87 lakh+ other charges,₹2.55 lakh," Wave One Mall, Sec-18, Noida"
+2022 Renault Kwid,48014,Petrol,Manual,HR-33,"EMI ₹2,991/m*",₹4.57 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2018 Maruti Celerio X,111639,CNG,Manual,HR-06,₹2.39L₹1.53 lakh+ other charges,₹4.28 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2016 Renault Kwid,63291,Petrol,Manual,HR-06,"EMI ₹7,452/m*",₹3.27 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2021 Hyundai VENUE,52976,Petrol,Manual,HR-28,₹3.65L₹3.35 lakh+ other charges,₹4.76 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2023 Maruti XL6,81155,Petrol,Manual,HR-60,"EMI ₹7,284/m*",₹2.72 lakh," Metro Walk, Rohini, New Delhi"
+2015 Hyundai i10,78856,Petrol,Manual,HR-26,₹4.37L₹4.13 lakh+ other charges,₹2.97 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2017 Maruti Wagon R 1.0,79242,CNG,Manual,HR-06,"EMI ₹7,326/m*",₹1.68 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2018 Tata Tiago,118576,Petrol,Manual,HR-06,₹4.25L₹4.15 lakh+ other charges,₹5.54 lakh," Metro Walk, Rohini, New Delhi"
+2017 Honda Jazz,91033,Petrol,Manual,HR-06,"EMI ₹8,279/m*",₹8.09 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2019 Tata NEXON,41924,Petrol,Manual,HR-06,₹4.89L₹4.69 lakh+ other charges,₹1.71 lakh," Metro Walk, Rohini, New Delhi"
+2020 Renault TRIBER,55224,Petrol,Manual,HR-12,"EMI ₹4,985/m*",₹2.31 lakh," Metro Walk, Rohini, New Delhi"
+2018 Hyundai Grand i10,41331,Petrol,Manual,UP-13,₹2.60L₹2.55 lakh+ other charges,₹2.73 lakh, DLF South Court Saket
+2022 Tata TIGOR,81872,CNG,Manual,HR-26,"EMI ₹2,879/m*",₹2.57 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2018 Tata NEXON,100474,CNG,Manual,UP-25,₹2.42L₹1.63 lakh+ other charges,₹3.86 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2021 Maruti Swift,62963,CNG,Manual,UP-80,"EMI ₹10,775/m*",₹3.40 lakh," Metro Walk, Rohini, New Delhi"
+2019 Maruti Swift,58358,CNG,Manual,HR-14,₹6.26L₹6.10 lakh+ other charges,₹2.91 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2019 Ford FREESTYLE,55165,Diesel,Manual,HR-10,"EMI ₹6,055/m*",₹4.49 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2015 Hyundai Eon,43518,Petrol,Manual,UP-23,₹3.85L₹3.43 lakh+ other charges,₹3.55 lakh," Metro Walk, Rohini, New Delhi"
+2017 Renault Kwid,86916,Petrol,Manual,HR-72,"EMI ₹5,633/m*",₹4.60 lakh," Metro Walk, Rohini, New Delhi"
+2016 Maruti Swift,65394,Petrol,Manual,UP-80,₹3.56L₹3.19 lakh+ other charges,₹4.05 lakh," Metro Walk, Rohini, New Delhi"
+2022 Maruti Swift,66173,Petrol,Manual,DL-11,"EMI ₹12,145/m*",₹2.87 lakh," Metro Walk, Rohini, New Delhi"
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,HR-14,₹7.74L₹6.88 lakh+ other charges,₹1.77 lakh, DLF South Court Saket
+2019 Tata NEXON,43084,Petrol,Manual,HR-51,"EMI ₹8,895/m*",₹1.53 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2015 Honda Amaze,40807,Petrol,Manual,HR-51,₹5.01L₹4.55 lakh+ other charges,₹3.35 lakh, Rajouri Garden
+2022 Tata PUNCH,23927,Petrol,Manual,HR-29,"EMI ₹6,920/m*",₹4.13 lakh," Metro Walk, Rohini, New Delhi"
+2019 Maruti Swift,57241,Petrol,Manual,HR-16,₹4.00L₹3.92 lakh+ other charges,₹2.13 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2018 Renault Kwid,62282,Petrol,Manual,HR-24,Not available on EMI,₹4.15 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2016 Tata Tiago,79222,Petrol,Manual,HR-20,₹1.34 lakh+ other charges,₹2.35 lakh, Rajouri Garden
+2019 Datsun Redi Go,34061,Petrol,Manual,HR-94,"EMI ₹8,457/m*",₹4.69 lakh," Metro Walk, Rohini, New Delhi"
+2019 Maruti Swift,30678,Petrol,Manual,HR-20,₹5.28L₹4.79 lakh+ other charges,₹3.65 lakh," Metro Walk, Rohini, New Delhi"
+2022 Tata NEXON,48769,Petrol,Manual,HR-30,"EMI ₹8,175/m*",₹1.63 lakh," Metro Walk, Rohini, New Delhi"
+2016 Hyundai Elite i20,65503,Petrol,Manual,HR-26,₹4.60L₹3.67 lakh+ other charges,₹2.48 lakh," Metro Walk, Rohini, New Delhi"
+2020 Renault TRIBER,42304,Petrol,Manual,HR-24,"EMI ₹5,755/m*",₹1.79 lakh," Metro Walk, Rohini, New Delhi"
+2018 Tata Tiago,48065,Petrol,Manual,HR-23,₹3.36L₹3.26 lakh+ other charges,₹3.75 lakh," Metro Walk, Rohini, New Delhi"
+2024 Tata PUNCH,25466,Petrol,Manual,HR-24,"EMI ₹15,571/m*",₹6.10 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2012 Maruti Wagon R 1.0,81490,CNG,Manual,HR-26,₹7.50L₹7.00 lakh,₹3.09 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2011 Audi Q5,49009,Petrol,Manual,HR-44,"EMI ₹6,847/m*",₹3.43 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2013 Maruti Wagon R 1.0,94657,CNG,Manual,HR-24,₹2.65L₹2.60 lakh,₹3.19 lakh," Wave One Mall, Sec-18, Noida"
+2017 Tata Tiago,55541,Petrol,Manual,HR-24,"EMI ₹9,964/m*",Account ," Gaur City mall, Multilevel parking, Greater Noida"
+2012 Hyundai i10,76719,Petrol,Manual,HR-51,₹3.09L₹3.00 lakh,Account ," M3M Urbana, Golf Course Ext., Gurugram"
+2012 Maruti Swift,99772,CNG,Manual,HR-13,"EMI ₹10,115/m*",Account ," M3M Urbana, Golf Course Ext., Gurugram"
+2015 Hyundai Eon,77062,Petrol,Manual,CH-01,₹6.00L₹5.73 lakh,Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2016 Renault Kwid,118740,Petrol,Manual,HR-33,"EMI ₹9,788/m*",Account ," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2014 Maruti Alto 800,116806,CNG,Manual,HR-29,₹4.40 lakh,Account ," Gaur City mall, Multilevel parking, Greater Noida"
+2022 Maruti Alto,30826,Petrol,Manual,HR-51,"EMI ₹3,003/m*",Account ," Udyog Vihar, Sector 18, Gurgaon"
+2011 Ford Figo,59521,CNG,Manual,HR-31,₹1.35 lakh,Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2016 Renault Kwid,45000,Petrol,Manual,HR-93,"EMI ₹7,008/m*",Account ," M3M Urbana, Golf Course Ext., Gurugram"
+2015 Hyundai i10,109100,CNG,Manual,HR-51,₹2.11 lakh,Account ," Udyog Vihar, Sector 18, Gurgaon"
+2013 Maruti Swift Dzire,106472,CNG,Manual,HR-31,"EMI ₹10,534/m*",Account ," Gaur City mall, Multilevel parking, Greater Noida"
+2017 Honda City,85761,Diesel,Manual,HR-31,₹4.20L₹4.00 lakh,₹5.10 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2023 Hyundai VENUE,29190,Petrol,Manual,HR-06,"EMI ₹19,902/m*",₹1.19 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2017 Hyundai Elite i20,69867,Petrol,Manual,HR-33,₹2.35L₹2.24 lakh,₹4.70 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2020 Hyundai VENUE,103029,Diesel,Manual,HR-08,"EMI ₹10,592/m*",₹1.70 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2011 Maruti Wagon R 1.0,94759,Petrol,Manual,HR-31,₹6.50L₹6.00 lakh,₹2.60 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021 Maruti Swift,62963,CNG,Manual,HR-90,"EMI ₹25,766/m*",₹1.71 lakh, Shilapati Mohalla Jind
+2019 Maruti Swift,58358,CNG,Manual,HR-06,₹2.90 lakh,₹1.65 lakh, Kurukshetra University Thanesar Haryana
+2023 Toyota Glanza,60527,Petrol,Manual,HR-31,"EMI ₹3,114/m*",₹1.40 lakh, Laxman colony Street no 1 Laxman colony Street no 1 Thanesar
+2019 Ford FREESTYLE,55165,Diesel,Manual,HR-31,₹1.40 lakh,₹1.30 lakh, Vashisht colony Vashisht colony Kurukshetra
+2015 Hyundai Eon,43518,Petrol,Manual,HR-13,"EMI ₹12,289/m*",₹1.12 lakh, Vill Kishanpur Pipli Dt Kurukshetra Near Gurudwar Kurukshetra
+2017 Renault Kwid,86916,Petrol,Manual,HR-14,₹4.00L₹3.70 lakh,₹3.75 lakh, THANESAR KURUKSHETRA Kurukshetra
+2016 Maruti Swift,65394,Petrol,Manual,HR-12,"EMI ₹9,217/m*",₹0.75 lakh, Sector 4 Kurukshetra Haryana
+2022 Maruti Swift,66173,Petrol,Manual,HR-02,₹3.60L₹3.50 lakh,₹1.35 lakh, Kurukshetra Kurukshetra Kurukshetra
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,HR-02,"EMI ₹12,710/m*",₹1.87 lakh, Kurukshetra Haryana India
+2019 Tata NEXON,43084,Petrol,Manual,HR-12,₹2.70 lakh,₹1.88 lakh, Ambala Division Sector 30 Kurukshetra
+2015 Honda Amaze,40807,Petrol,Manual,HR-10,Not available on EMI,₹4.00 lakh, Sector 10 Kurukshetra Haryana
+2022 Tata PUNCH,23927,Petrol,Manual,HR-18,₹1.15L₹0.95 lakh,₹7.00 lakh, Mohan nagar kurukshetra Mohan nagar kurukshetra Kurukshetra
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,HR-10,"EMI ₹15,415/m*",₹4.70 lakh, Hargobind nagar near Balaji mandir Hargobind nagar near Balaji mandir Kurukshetra
+2019 Maruti Swift,57241,Petrol,Manual,HR-36,₹6.93 lakh,₹6.00 lakh, darra khera Darra Khera Thanesar
+2018 Renault Kwid,62282,Petrol,Manual,HR-05,"EMI ₹7,674/m*",₹0.72 lakh, Kurukshetra Thanesar Haryana
+2016 Tata Tiago,79222,Petrol,Manual,HR-36,₹3.45 lakh,₹4.60 lakh, Sector 3 Kurukshetra Haryana
+2019 Datsun Redi Go,34061,Petrol,Manual,HR-29,"EMI ₹14,459/m*",₹4.05 lakh, Multi storey building District court kurukshetra Panipat
+2019 Maruti Swift,30678,Petrol,Manual,HR-13,₹7.10L₹6.50 lakh,₹5.00 lakh, Ansal Sushant City Ansal Sushant City Umri
+2022 Tata NEXON,48769,Petrol,Manual,HR-10,"EMI ₹8,008/m*",₹2.87 lakh, Locality :- Kurukshetra Kurukshetra
+2016 Hyundai Elite i20,65503,Petrol,Manual,HR-29,₹3.60 lakh,₹1.77 lakh, Kurukshetra University Thanesar Haryana
+2012 Renault Duster,123949,Diesel,Manual,HR-98,"EMI ₹8,120/m*",₹1.53 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2013 Maruti Ritz,100317,Diesel,Manual,HR-31,₹5.33L₹4.60 lakh+ other charges,₹3.35 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2012 Maruti Ritz,128963,Diesel,Manual,HR-05,"EMI ₹7,918/m*",₹4.13 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2017 Hyundai Creta,102752,Diesel,Manual,HR-29,₹4.40L₹4.05 lakh+ other charges,₹2.13 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2012 Toyota Fortuner,167147,Diesel,Manual,HR-12,"EMI ₹8,826/m*",₹4.15 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2014 Hyundai i20,97496,Diesel,Manual,HR-08,₹5.64L₹5.00 lakh+ other charges,₹2.35 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2023 Hyundai Verna,13632,Petrol,Manual,HR-51,"EMI ₹9,542/m*",₹4.69 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2011 Hyundai i10,98976,CNG,Manual,HR-22,₹4.99L₹2.87 lakh+ other charges,₹2.55 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2017 Mahindra XUV500,125986,Diesel,Manual,UK-07,"EMI ₹4,661/m*",₹3.65 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2014 Honda Mobilio,138782,Diesel,Manual,HR-08,₹1.88L₹1.77 lakh+ other charges,₹1.63 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2020 Maruti Alto,73358,CNG,Manual,HR-08,"EMI ₹2,991/m*",₹2.48 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2022 Renault TRIBER,135102,Petrol,Manual,HR-83,₹2.39L₹1.53 lakh+ other charges,₹1.79 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2012 Nissan Micra,199038,Diesel,Manual,HR-13,"EMI ₹7,452/m*",₹3.75 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2015 Jaguar XF,104840,Diesel,Manual,HR-70,₹3.65L₹3.35 lakh+ other charges,₹6.10 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2024 Maruti BREZZA,11607,Petrol,Manual,HR-29,"EMI ₹7,284/m*",₹3.09 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2018 Renault Duster,100754,Diesel,Manual,HR-08,₹4.37L₹4.13 lakh+ other charges,Account ," M3M Urbana, Golf Course Ext., Gurugram"
+2023 Mahindra SCORPIO-N,38836,Diesel,Manual,HR-08,"EMI ₹10,025/m*",Account ," Udyog Vihar, Sector 18, Gurgaon"
+2020 KIA SELTOS,100771,Diesel,Manual,HR-08,₹2.13 lakh+ other charges,₹1.50 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2017 Toyota Fortuner,158859,Diesel,Manual,HR-32,"EMI ₹7,326/m*",₹1.40 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2011 Audi Q7,129576,Diesel,Manual,HR-26,₹4.25L₹4.15 lakh+ other charges,₹1.04 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2021 Honda Amaze,120545,CNG,Manual,HR-08,"EMI ₹6,188/m*",₹4.90 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2013 Maruti Wagon R 1.0,93049,CNG,Manual,HR-26,₹2.40L₹2.35 lakh+ other charges,₹6.30 lakh," Metro Walk, Rohini, New Delhi"
+2015 Renault Kwid,24000,Petrol,Manual,CH-01,"EMI ₹8,279/m*",₹2.20 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2011 Maruti Wagon R 1.0,84753,Petrol,Manual,HR-08,₹4.89L₹4.69 lakh+ other charges,₹9.60 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2025 Hyundai NEW I20,11185,Petrol,Manual,UP-13,"EMI ₹4,985/m*",₹1.00 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2020 Hyundai Creta,135976,Diesel,Manual,UP-80,₹2.60L₹2.55 lakh+ other charges,₹5.21 lakh," Wave One Mall, Sec-18, Noida"
+2013 Nissan Terrano,121136,Diesel,Manual,UP-80,"EMI ₹6,443/m*",₹1.85 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2017 Tata NEXON,153913,Diesel,Manual,UP-80,₹3.65 lakh+ other charges,₹2.50 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2017 Maruti Vitara Brezza,114602,Diesel,Manual,UP-80,"EMI ₹2,879/m*",₹2.90 lakh," Metro Walk, Rohini, New Delhi"
+2013 Hyundai Eon,115168,Petrol,Manual,UP-15,₹2.42L₹1.63 lakh+ other charges,₹1.00 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2018 Tata TIGOR,92793,Diesel,Manual,UP-81,"EMI ₹5,517/m*",₹5.15 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2020 Hyundai Elite i20,87061,Petrol,Manual,UP-16,₹2.69L₹2.48 lakh+ other charges,₹11.20 lakh," Metro Walk, Rohini, New Delhi"
+2013 Maruti Ritz,101323,Diesel,Manual,UP-80,"EMI ₹3,158/m*",₹4.55 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2017 Honda WR-V,252995,Diesel,Manual,UP-37,₹1.79 lakh+ other charges,₹16.10 lakh," Metro Walk, Rohini, New Delhi"
+2018 Maruti Vitara Brezza,81599,Diesel,Manual,UP-14,"EMI ₹6,620/m*",₹10.30 lakh," Metro Walk, Rohini, New Delhi"
+2021 MG HECTOR PLUS,64711,Diesel,Manual,UP-81,₹3.90L₹3.75 lakh+ other charges,₹18.80 lakh, DLF South Court Saket
+2021 Jeep Compass,86579,Petrol,Manual,UP-16,"EMI ₹10,775/m*",₹4.47 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2021 Tata Tiago,70448,CNG,Manual,UP-85,₹6.26L₹6.10 lakh+ other charges,Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2018 Maruti Wagon R 1.0,58764,Petrol,Manual,DL-14,"EMI ₹6,867/m*",₹4.70 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2019 Maruti Baleno,66791,Petrol,Manual,UP-80,₹3.43L₹3.09 lakh+ other charges,₹1.36 lakh, Rajouri Garden
+2023 Maruti Baleno,46071,Petrol,Manual,HR-26,"EMI ₹7,918/m*",₹1.20 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2016 Ford Figo Aspire,68162,Petrol,Manual,UP-25,₹4.40L₹4.05 lakh+ other charges,₹0.73 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2021 Tata NEXON,77764,Diesel,Manual,HR-14,"EMI ₹4,661/m*",₹7.00 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2014 Honda Amaze,102204,Petrol,Manual,HR-10,₹1.88L₹1.77 lakh+ other charges,₹6.50 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2020 Maruti S PRESSO,120704,Petrol,Manual,UP-23,"EMI ₹10,025/m*",₹1.36 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2021 Tata Tiago,46320,Petrol,Manual,HR-72,₹2.13 lakh+ other charges,₹3.30 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2020 Tata Tiago,40221,Petrol,Manual,DL-11,"EMI ₹6,188/m*",₹4.75 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2021 Hyundai GRAND I10 NIOS,99475,CNG,Manual,HR-14,₹2.40L₹2.35 lakh+ other charges,₹1.08 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2017 Hyundai Elite i20,42780,Petrol,Manual,DL-12,"EMI ₹6,443/m*",₹3.00 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2019 Honda Amaze,79195,Petrol,Manual,HR-51,₹3.65 lakh+ other charges,₹5.15 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2019 Tata NEXON,97713,CNG,Manual,HR-02,"EMI ₹5,517/m*",₹1.94 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2023 MG ASTOR,28044,Petrol,Manual,DL-13,₹2.69L₹2.48 lakh+ other charges,₹3.50 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2016 Maruti Alto 800,65898,Petrol,Manual,UP-14,"EMI ₹3,158/m*",₹4.90 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022 Nissan MAGNITE,80226,Petrol,Manual,UP-14,₹1.79 lakh+ other charges,₹11.00 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2017 Maruti Baleno,50569,Petrol,Manual,UP-15,"EMI ₹6,620/m*",₹11.58 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2014 Hyundai Grand i10,51501,Petrol,Manual,UP-81,₹3.90L₹3.75 lakh+ other charges,Account ," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022 Skoda SLAVIA,81928,Petrol,Manual,UP-81,"EMI ₹6,867/m*",Account ," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2013 Renault Duster,131753,Diesel,Manual,UP-81,₹3.43L₹3.09 lakh+ other charges,Account ," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2023 Tata NEXON,79406,Petrol,Manual,UP-85,"EMI ₹7,242/m*",Account ," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2015 Maruti Swift,145761,Diesel,Manual,UP-86,₹3.70L₹2.75 lakh+ other charges,₹4.44 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2017 Hyundai Creta,181445,CNG,Manual,UP-81,"EMI ₹6,025/m*",₹2.51 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2013 Nissan Sunny,83491,Diesel,Manual,UP-81,₹2.05L₹1.81 lakh+ other charges,₹4.50 lakh," Metro Walk, Rohini, New Delhi"
+2018 Mahindra XUV500,150809,Diesel,Manual,UP-81,"EMI ₹3,982/m*",₹5.61 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2018 Maruti Swift,202705,Petrol,Manual,UP-70,₹1.85L₹1.79 lakh+ other charges,₹2.60 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2017 Maruti Swift Dzire,162094,Diesel,Manual,UP-81,"EMI ₹4,555/m*",₹5.58 lakh," Wave One Mall, Sec-18, Noida"
+2012 Hyundai i10,182606,CNG,Manual,UP-81,₹2.57L₹2.33 lakh+ other charges,₹2.11 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2013 Nissan Sunny,138053,Diesel,Manual,UP-79,"EMI ₹12,796/m*",₹2.62 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2013 Maruti Alto K10,138289,Petrol,Manual,UP-81,₹7.25 lakh+ other charges,₹4.42 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2012 Renault Duster,157516,Diesel,Manual,HR-51,"EMI ₹5,559/m*",₹3.54 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2019 Mahindra MARAZZO,161725,Diesel,Manual,UP-83,₹3.15 lakh+ other charges,₹4.61 lakh," Metro Walk, Rohini, New Delhi"
+2019 Honda Amaze,84691,Petrol,Manual,UP-80,"EMI ₹13,580/m*",₹4.14 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2022 Tata PUNCH,38856,Petrol,Manual,UP-80,₹7.93L₹7.69 lakh+ other charges,₹3.59 lakh," Metro Walk, Rohini, New Delhi"
+2014 Ford Ecosport,112193,Diesel,Manual,UP-80,"EMI ₹5,474/m*",₹4.91 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2017 Maruti Vitara Brezza,80374,Diesel,Manual,UP-80,₹3.11L₹2.80 lakh+ other charges,₹7.77 lakh," Metro Walk, Rohini, New Delhi"
+2011 Maruti Alto K10,81210,Petrol,Manual,UP-80,"EMI ₹4,886/m*",₹1.91 lakh," Metro Walk, Rohini, New Delhi"
+2023 Maruti New Wagon-R,100080,Petrol,Manual,UP-80,₹2.70L₹2.50 lakh+ other charges,₹5.21 lakh, DLF South Court Saket
+2022 KIA SONET,141215,Petrol,Manual,UP-80,"EMI ₹8,209/m*",₹3.65 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2021 Maruti Swift,62963,CNG,Manual,UP-80,₹4.86L₹4.65 lakh+ other charges,₹2.27 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2017 Renault Kwid,86916,Petrol,Manual,UP-80,"EMI ₹4,673/m*",₹8.08 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2016 Maruti Swift,65394,Petrol,Manual,UP-80,₹2.65 lakh+ other charges,Account ," M3M Urbana, Golf Course Ext., Gurugram"
+2018 Renault Kwid,62282,Petrol,Manual,UP-80,"EMI ₹8,120/m*",₹1.20 lakh, Panchwati Colony Palwal Haryana
+2017 Hyundai Creta,70830,Petrol,Manual,UP-81,₹5.33L₹4.60 lakh+ other charges,₹9.80 lakh, Shyam Nagar Palwal Haryana
+2015 Maruti Swift Dzire,71073,Petrol,Manual,UP-80,"EMI ₹8,826/m*",₹2.00 lakh, Panchwati Colony Palwal Haryana
+2018 Hyundai Grand i10,49829,Petrol,Manual,BR-10,₹5.64L₹5.00 lakh+ other charges,₹4.50 lakh, agarsen vihar old GT road Palwal
+2023 Tata PUNCH,76917,CNG,Manual,UP-80,"EMI ₹9,542/m*",₹1.45 lakh, Palwal Palwal Haryana
+2019 Renault TRIBER,34499,Petrol,Manual,UP-80,₹4.99L₹2.87 lakh+ other charges,₹5.50 lakh, Shyam Nagar Palwal Haryana
+2023 KIA CARENS,60141,Petrol,Manual,UP-80,"EMI ₹2,991/m*",₹3.70 lakh, Kc service station Kc service station Palwal
+2016 Toyota Corolla Altis,86275,Petrol,Manual,UP-80,₹2.39L₹1.53 lakh+ other charges,₹3.64 lakh, Camp Market Palwal Haryana
+2021 Maruti New Wagon-R,56401,Petrol,Manual,UP-21,"EMI ₹7,452/m*",₹1.30 lakh, Omaxe City 1 Palwal
+2024 Tata ALTROZ,61558,CNG,Manual,UP-38,₹3.65L₹3.35 lakh+ other charges,₹1.29 lakh, Shyam Nagar Palwal Haryana
+2017 Datsun Redi Go,44038,Petrol,Manual,UK-06,"EMI ₹7,284/m*",₹1.42 lakh, New Colony Palwal Haryana
+2023 Toyota URBAN CRUISER HYRYDER,22378,Petrol,Manual,UP-38,₹4.37L₹4.13 lakh+ other charges,₹2.00 lakh, Shiv Colony Palwal
+2017 Jeep Compass,74779,Petrol,Manual,UP-14,"EMI ₹7,326/m*",₹5.60 lakh, Ramnagar Palwal Haryana
+2016 Maruti Wagon R 1.0,24500,Petrol,Manual,UP-14,₹4.25L₹4.15 lakh+ other charges,₹3.98 lakh, Rock Colony Palwal Haryana
+2015 Maruti Alto 800,28140,Petrol,Manual,UP-21,"EMI ₹8,279/m*",₹4.96 lakh, HUDA Sector-2 Palwal
+2019 Maruti Swift,49997,Petrol,Manual,UP-81,₹4.89L₹4.69 lakh+ other charges,₹2.50 lakh, Surya society Surya society Palwal
+2015 Hyundai i10,39708,Petrol,Manual,UP-95,"EMI ₹4,985/m*",₹4.45 lakh, Rasulpur road KK Gym Harinagar ward no 8 Faridabad
+2019 Maruti Swift,58358,CNG,Manual,UP-16,₹2.60L₹2.55 lakh+ other charges,₹1.19 lakh, Shyam Nagar Palwal Haryana
+2023 Toyota Glanza,60527,Petrol,Manual,UP-21,"EMI ₹2,879/m*",₹3.75 lakh, Prem Vihar Ward No. 19 Faridabad
+2019 Ford FREESTYLE,55165,Diesel,Manual,UP-21,₹2.42L₹1.63 lakh+ other charges,₹7.10 lakh, Jhajjar Jhajjarrural Haryana
+2015 Hyundai Eon,43518,Petrol,Manual,UP-40,"EMI ₹10,775/m*",Account , Mini Secretariat Jhajjar Jhajjar Haryana
+2022 Maruti Swift,66173,Petrol,Manual,UP-25,₹6.26L₹6.10 lakh+ other charges,Account , Jhajjar Courts Post Office Jhajjar Haryana
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,UP-24,"EMI ₹6,055/m*",Account , Mangwaki Mangwaki
+2019 Tata NEXON,43084,Petrol,Manual,UP-21,₹3.85L₹3.43 lakh+ other charges,Account , Silani gate Silani gate Jhajjar
+2015 Honda Amaze,40807,Petrol,Manual,UP-16,"EMI ₹5,633/m*",Account , Bus Stand Bus Stand Jhajjar
+2022 Tata PUNCH,23927,Petrol,Manual,UP-13,₹3.56L₹3.19 lakh+ other charges,Account , Near Bus stand Matanhail Matanhail
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,UP-13,"EMI ₹12,145/m*",Account , 37/T Jhajjarrural Haryana
+2019 Maruti Swift,57241,Petrol,Manual,UP-13,₹7.74L₹6.88 lakh+ other charges,Account , Jd hotel Jd hotel Jhajjar
+2016 Tata Tiago,79222,Petrol,Manual,UP-14,"EMI ₹8,895/m*",Account , Kirpal Nagar Rohtak
+2019 Datsun Redi Go,34061,Petrol,Manual,DL-14,₹5.01L₹4.55 lakh+ other charges,Account , Beri Beri
+2019 Maruti Swift,30678,Petrol,Manual,UP-14,"EMI ₹6,920/m*",Account , Bhadana Bhadana Jhajjar
+2022 Tata NEXON,48769,Petrol,Manual,UP-13,₹4.00L₹3.92 lakh+ other charges,Account , city mall jhajjar near bhagat singh chowk Jhajjar
+2016 Hyundai Elite i20,65503,Petrol,Manual,UP-13,Not available on EMI,Account , Model Town Jhajjar Haryana
+2020 Renault TRIBER,42304,Petrol,Manual,UP-16,₹1.34 lakh+ other charges,Account , Near oskar hospital District hospital jhajjar Ghaziabad
+2018 Tata Tiago,48065,Petrol,Manual,UP-13,"EMI ₹8,457/m*",Account , Sainipura Mahendragarh
+2023 Volkswagen TAIGUN,58195,Petrol,Manual,UP-86,₹5.28L₹4.79 lakh+ other charges,Account , Jhajjar Jhajjarrural Haryana
+2015 Honda City,119495,Petrol,Manual,HR-26,"EMI ₹8,175/m*",Account , bus stand Charkhi Dadri
+2012 Maruti Wagon R 1.0,116387,CNG,Manual,UP-14,₹4.60L₹3.67 lakh+ other charges,Account , Achhej Achhej
+2016 Maruti Alto K10,57825,Petrol,Manual,UP-37,"EMI ₹5,755/m*",Account , Gurgaon Rural Gurugram
+2017 Maruti Vitara Brezza,96758,Diesel,Manual,UP-14,₹3.36L₹3.26 lakh+ other charges,Account , Sector 1 Rewari Haryana
+2016 Maruti Ertiga,222000,CNG,Manual,DL-13,"EMI ₹15,571/m*",₹4.60 lakh, State - Haryana Land mark - near government school 9043405953 Rewari
+2016 Renault Kwid,150807,Petrol,Manual,DL-12,₹7.50L₹7.00 lakh,₹1.53 lakh, Garhi Bolni Road Rewari Haryana
+2013 Maruti Alto 800,68096,Petrol,Manual,DL-12,"EMI ₹6,847/m*",₹3.35 lakh, Near railway ground Gali no 1 vikas nagar Rewari
+2013 Toyota Etios Liva,61315,Petrol,Manual,DL-10,₹2.65L₹2.60 lakh,₹1.63 lakh, null
+2013 Maruti Alto 800,61048,Petrol,Manual,UP-14,"EMI ₹9,964/m*",₹4.55 lakh, New Aanaj Mandi Rewari Haryana
+2013 Hyundai i10,66283,Petrol,Manual,UP-38,₹3.09L₹3.00 lakh,₹2.85 lakh, Kasola Chowk Company Bagh Rewari
+2013 Maruti Wagon R 1.0,100350,Petrol,Manual,UP-37,"EMI ₹10,115/m*",₹3.35 lakh, Model Town Rewari Haryana
+2020 Renault TRIBER,74381,Petrol,Manual,UP-14,₹6.00L₹5.73 lakh,₹6.49 lakh, House no 6 A Gali no 1 Shakti nagar part 1 Rewari Haryana Rewari
+2015 Maruti Swift Dzire,296980,Diesel,Manual,UP-14,"EMI ₹9,788/m*",₹3.52 lakh, Shakti Nagar Rewari Near Little Kingdom School Rewari
+2016 Maruti Vitara Brezza,55907,Diesel,Manual,AS-11,₹4.40 lakh,₹11.02 lakh, near kala shadan gopal dev chowk rewari Rewari
+2019 Mahindra XUV500,88964,Diesel,Manual,BR-01,"EMI ₹3,003/m*",₹5.50 lakh, Railway Colony Rewari Haryana
+2015 Renault Duster,99973,Diesel,Manual,UP-65,₹1.35 lakh,₹3.39 lakh, HARYANA Landmark:Haryana Rewari
+2021 Volkswagen Polo,60672,Petrol,Manual,UP-65,"EMI ₹7,008/m*",₹6.11 lakh, 0 0 Boria Kamalpur
+2018 Maruti Baleno,298700,Petrol,Manual,UP-67,₹2.11 lakh,₹1.52 lakh, Khasapura Rewari Haryana
+2015 Ford Ecosport,128896,Diesel,Manual,UP-65,"EMI ₹10,534/m*",₹10.12 lakh, VPO Turkiawas District Rewari ( Near Ambekar Chowk) Rewari
+2020 Mahindra XUV300,57000,Diesel,Manual,UP-65,₹4.20L₹4.00 lakh,₹5.84 lakh, Tint khori narnol rod Rewari
+2011 Nissan Sunny,81667,Petrol,Manual,UP-65,"EMI ₹19,902/m*",₹2.44 lakh, Manesar Gurugram
+2016 Mahindra TUV300,72235,Diesel,Manual,UP-70,₹2.35L₹2.24 lakh,₹1.67 lakh, Rajeev Nager Rajeev Nager Rewari
+2019 Renault Kwid,106000,Petrol,Manual,UP-62,"EMI ₹10,592/m*",₹3.82 lakh, 2 2 Rewari
+2014 Maruti Wagon R 1.0,28763,Petrol,Manual,UP-32,₹6.50L₹6.00 lakh,₹1.78 lakh, Sector-22 Rohtak Haryana
+2015 Toyota Corolla Altis,171677,Petrol,Manual,UP-65,"EMI ₹25,766/m*",₹4.05 lakh, Rajendra Nagar Rohtak Haryana
+2020 Tata ALTROZ,45774,Petrol,Manual,UP-64,₹2.90 lakh,₹5.00 lakh, Meham Meham
+2012 Maruti Wagon R 1.0,48472,Petrol,Manual,UP-65,"EMI ₹3,114/m*",₹2.87 lakh, Devi Vihar Rohtak Haryana
+2012 Maruti Wagon R 1.0,60870,Petrol,Manual,UP-65,₹1.40 lakh,₹1.77 lakh, Royal vatika Royal vatika Bohar
+2022 Tata PUNCH,37561,Petrol,Manual,HR-51,"EMI ₹12,289/m*",₹4.13 lakh, Rajendra Nagar Rohtak Haryana
+2012 Maruti Wagon R 1.0,38478,CNG,Manual,UP-61,₹4.00L₹3.70 lakh,₹2.13 lakh, Subhash Nagar Rohtak
+2012 Maruti Wagon R 1.0,165552,CNG,Manual,UP-80,"EMI ₹9,217/m*",₹4.15 lakh, Kirpal Nagar Rohtak
+2017 Honda City,60840,Petrol,Manual,UP-32,₹3.60L₹3.50 lakh,₹2.35 lakh, Indian complax Indian complax Rohtak
+2016 Renault Kwid,50405,Petrol,Manual,UP-65,"EMI ₹12,710/m*",₹4.69 lakh, sainik Colony Rohtak
+2018 Tata NEXON,69479,Petrol,Manual,UP-13,₹2.70 lakh,₹2.55 lakh, Jagdish Colony Rohtak Haryana
+2013 Maruti Wagon R 1.0,138156,Petrol,Manual,HR-26,Not available on EMI,₹3.65 lakh, Janta colony near triveni Park Rohtak
+2014 Toyota Etios,104991,Diesel,Manual,UP-25,₹1.15L₹0.95 lakh,₹2.48 lakh, Rajendra Nagar Rohtak
+2013 Maruti Swift Dzire,81052,Diesel,Manual,UP-80,"EMI ₹15,415/m*",₹1.79 lakh, Rajendra Nagar Rohtak
+2017 Tata TIGOR,98000,Diesel,Manual,HR-14,₹6.93 lakh,₹3.75 lakh, Ekta Colony Ekta Colony Rohtak
+2012 Maruti Wagon R 1.0,29121,Petrol,Manual,HR-10,"EMI ₹7,674/m*",₹6.10 lakh, Sector 4 Rohtak Haryana
+2021 Maruti New Wagon-R,57214,CNG,Manual,UP-23,₹3.45 lakh,₹3.09 lakh, Rajendra Nagar Rohtak
+2020 Hyundai Elite i20,25903,Petrol,Manual,HR-72,"EMI ₹14,459/m*",₹3.43 lakh, Rohtak bus stand Rohtak
+2013 Maruti Swift Dzire,97171,Diesel,Manual,UP-80,₹7.10L₹6.50 lakh,₹3.19 lakh, Sector 38 Gurugram Haryana
+2011 Chevrolet Aveo,137162,CNG,Manual,DL-11,"EMI ₹8,008/m*",₹6.88 lakh, Sector 24 Rohtak
+2023 Volkswagen TAIGUN,55308,Petrol,Manual,HR-14,₹3.60 lakh,₹2.75 lakh, Bahadurgarh - Chhara - Beri Road Mattan Haryana
+2013 Honda Brio,63196,Petrol,Manual,DL-11,"EMI ₹7,284/m*",Account ," Vpo Ladpur, Jhajjar, Haryana Ladpur"
+2013 Hyundai Eon,41782,Petrol,Manual,DL-13,₹4.37L₹4.13 lakh+ other charges,₹1.20 lakh, Jungi Mohla Kasaar Haryana
+2020 Mahindra Bolero,68806,Diesel,Manual,DL-12,"EMI ₹7,326/m*",₹1.90 lakh, Sector 17 Sankhol Haryana
+2017 Maruti Swift,78928,Petrol,Manual,DL-14,₹4.25L₹4.15 lakh+ other charges,₹4.70 lakh, Udhyog Vihar Sankhol
+2017 Hyundai Xcent,155158,Diesel,Manual,DL-12,"EMI ₹10,775/m*",₹3.60 lakh, Arya Nagar Bahadurgarh Haryana
+2014 Hyundai Eon,50908,Petrol,Manual,DL-10,₹6.26L₹6.10 lakh+ other charges,₹1.56 lakh, Distt JhajjarPin code- ; Jhajjar
+2016 Hyundai Elite i20,83209,Diesel,Manual,HR-21,"EMI ₹5,633/m*",₹1.40 lakh, Tdi Tuscan Tdi Tuscan Sonipat
+2017 Hyundai Xcent,85164,Diesel,Manual,UP-13,₹3.56L₹3.19 lakh+ other charges,₹1.85 lakh, Kassar Playground Jhajjar Haryana
+2019 Maruti Vitara Brezza,107381,Diesel,Manual,HR-26,"EMI ₹12,145/m*",₹1.55 lakh, Sector-15 Bahadurgarh Jhajjar
+2011 Hyundai Verna,96520,CNG,Manual,UP-25,₹7.74L₹6.88 lakh+ other charges,₹1.39 lakh, Raj Nagar Extension Ghaziabad Uttar Pradesh
+2018 Maruti Wagon R 1.0,58360,Petrol,Manual,UP-80,"EMI ₹6,920/m*",₹1.33 lakh, trauma center room no 11 Civil Hospital Bahadurgarh Madhya Marg Jhajjar
+2017 Maruti Ertiga,119696,CNG,Manual,HR-14,₹4.00L₹3.92 lakh+ other charges,₹3.55 lakh, Vikash Nagar Bahadurgarh Haryana
+2013 Maruti Swift Dzire,85930,Diesel,Manual,HR-10,Not available on EMI,₹3.23 lakh, Sector 2 Sector 2 Bahadurgarh
+2018 Hyundai Eon,20653,Petrol,Manual,UP-23,₹1.34 lakh+ other charges,₹4.54 lakh, MASZID Bahadurgarh Bypass Haryana
+2018 Maruti IGNIS,94300,Petrol,Manual,HR-72,"EMI ₹8,457/m*",₹6.85 lakh, Rohtak Division Near sai dental clinic Bahadurgarh
+2023 Maruti Eeco,42223,CNG,Manual,UP-80,₹5.28L₹4.79 lakh+ other charges,₹2.80 lakh, New Basti Bahadurgarh Haryana
+2016 Maruti Celerio,105500,Petrol,Manual,HR-14,"EMI ₹10,034/m*",₹6.90 lakh, Hno-1404 Sector-2 Jhajjar
+2021 Maruti New Wagon-R,54615,CNG,Manual,DL-12,₹6.48L₹5.68 lakh+ other charges,₹3.95 lakh, MVCX+PHH Bahadurgarh Haryana
+2022 Tata NEXON,65219,Diesel,Manual,HR-51,"EMI ₹4,869/m*",₹2.50 lakh, Sankhol Bahadurgarh Haryana
+2012 Maruti Wagon R 1.0,72554,Petrol,Manual,HR-02,₹3.21L₹2.76 lakh+ other charges,₹5.73 lakh, HUDA Panipat Haryana
+2018 Hyundai Grand i10,72750,Petrol,Manual,UP-80,"EMI ₹12,320/m*",₹1.10 lakh, shop no mastanan chowk panipat panipat haryana Panipat
+2012 Maruti Wagon R 1.0,91773,Petrol,Manual,HR-51,₹7.49L₹6.98 lakh+ other charges,Account , Ha Haryana India - Panipat
+2017 Maruti Vitara Brezza,163834,Diesel,Manual,HR-51,"EMI ₹7,993/m*",₹3.00 lakh, Batra Colony Panipat Haryana
+2012 Maruti Wagon R 1.0,103490,CNG,Manual,HR-06,₹4.67L₹4.53 lakh+ other charges,₹2.20 lakh, Huda Panipat Haryana
+2012 Maruti Wagon R 1.0,253766,CNG,Manual,HR-11,"EMI ₹7,154/m*",₹2.00 lakh, HUDA Panipat Haryana
+2018 Maruti Dzire,109643,Petrol,Manual,HR-08,₹3.42L₹3.22 lakh+ other charges,₹5.05 lakh, Old Housing Board Colony Panipat Haryana
+2016 Maruti Celerio,76492,CNG,Manual,HR-26,"EMI ₹7,544/m*",₹3.80 lakh, Panipat Panipat Taraf Makhdum Zadgan Haryana
+2015 Maruti Wagon R 1.0,97830,CNG,Manual,HR-07,₹4.49L₹4.27 lakh+ other charges,₹1.20 lakh, Assandh Assandh Ruralpart
+2013 Volkswagen Polo,131144,Petrol,Manual,HR-87,"EMI ₹13,345/m*",₹1.30 lakh, Panipat Panipat Taraf Afghan Haryana
+2018 Maruti Swift,61013,Petrol,Manual,HR-03,₹9.76L₹7.56 lakh+ other charges,₹4.85 lakh, HUDA Panipat Haryana
+2012 Maruti Wagon R 1.0,119541,CNG,Manual,HR-10,"EMI ₹21,148/m*",₹1.30 lakh, Kabul Bagh Panipat Haryana
+2013 Maruti Alto K10,78547,CNG,Manual,HR-05,₹14.77L₹12.35 lakh+ other charges,₹1.38 lakh, Thermal Colony Asan Khurd
+2017 Toyota Innova Crysta,209476,Diesel,Manual,HR-01,"EMI ₹7,740/m*",₹3.50 lakh, Kandhla Kairana
+2018 Hyundai NEW SANTRO,36698,CNG,Manual,HR-07,₹3.29L₹2.94 lakh+ other charges,₹1.48 lakh, Nr elite hotel Nr elite hotel Panipat
+2018 Premier Rio,61205,Petrol,Manual,HR-07,"EMI ₹20,081/m*",₹3.00 lakh, Panipat Karnal Division HR
+2021 Renault Kiger,65419,Petrol,Manual,HR-83,₹10.75L₹10.55 lakh+ other charges,₹1.73 lakh, 168/1 Kishanpura Panipat Haryana Panipat
+2021 Tata ALTROZ,56793,Petrol,Manual,HR-05,"EMI ₹6,168/m*",₹2.73 lakh, Shop no. 27 Aggarwal gali no.1 Gohana Road panipat (Haryana ) City - panipat Panipat
+2012 Maruti Wagon R 1.0,33887,Petrol,Manual,HR-06,₹4.06L₹3.49 lakh+ other charges,₹2.59 lakh, Kabri Panipat
+2024 Tata NEXON,40516,CNG,Manual,HR-51,"EMI ₹12,443/m*",₹2.51 lakh, Tehsil Camp Panipat Haryana
+2023 MG ASTOR,39973,Petrol,Manual,HR-09,₹11.13L₹7.05 lakh+ other charges,₹1.27 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2012 Maruti Wagon R 1.0,76254,Petrol,Manual,HR-08,"EMI ₹8,120/m*",₹3.96 lakh," Metro Walk, Rohini, New Delhi"
+2018 Renault Kwid,99456,CNG,Manual,HR-07,₹5.33L₹4.60 lakh+ other charges,₹4.83 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2012 Maruti Wagon R 1.0,78154,Petrol,Manual,HR-07,"EMI ₹7,918/m*",Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2016 Maruti Alto 800,73569,CNG,Manual,HR-26,₹4.40L₹4.05 lakh+ other charges,Account ," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2012 Maruti Wagon R 1.0,124531,Petrol,Manual,HR-72,"EMI ₹8,826/m*",Account ," Wave One Mall, Sec-18, Noida"
+2019 Maruti IGNIS,33071,Petrol,Manual,HR-26,₹5.64L₹5.00 lakh+ other charges,Account ," Gaur City mall, Multilevel parking, Greater Noida"
+2019 Tata Tiago,70142,CNG,Manual,HR-10,"EMI ₹9,542/m*",Account ," M3M Urbana, Golf Course Ext., Gurugram"
+2015 Renault Kwid,46171,Petrol,Manual,HR-26,₹4.99L₹2.87 lakh+ other charges,₹2.00 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2013 Maruti Swift Dzire,108834,Petrol,Manual,HR-10,"EMI ₹4,661/m*",₹1.20 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2013 Hyundai Eon,105766,CNG,Manual,HR-51,₹1.88L₹1.77 lakh+ other charges,₹14.50 lakh," Metro Walk, Rohini, New Delhi"
+2015 Maruti Swift,132000,Diesel,Manual,HR-06,"EMI ₹2,991/m*",₹1.50 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2012 Hyundai i20,100753,Petrol,Manual,HR-80,₹2.39L₹1.53 lakh+ other charges,₹1.50 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2013 Maruti Wagon R 1.0,199589,CNG,Manual,HR-26,"EMI ₹7,452/m*",₹5.92 lakh," Metro Walk, Rohini, New Delhi"
+2018 Maruti Celerio,91252,CNG,Manual,HR-10,₹3.65L₹3.35 lakh+ other charges,₹3.11 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2018 Honda Amaze,86844,Petrol,Manual,HR-07,"EMI ₹10,025/m*",₹2.50 lakh," Metro Walk, Rohini, New Delhi"
+2013 Hyundai Eon,60001,CNG,Manual,HR-36,₹2.13 lakh+ other charges,₹1.24 lakh," Metro Walk, Rohini, New Delhi"
+2015 Hyundai Verna,51872,CNG,Manual,HR-08,"EMI ₹6,188/m*",₹3.14 lakh, DLF South Court Saket
+2023 Tata PUNCH,31534,Petrol,Manual,HR-51,₹2.40L₹2.35 lakh+ other charges,₹2.08 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2020 Tata Tiago,53922,Petrol,Manual,HR-06,"EMI ₹8,279/m*",₹4.95 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2022 Maruti New Wagon-R,56385,Petrol,Manual,HR-06,₹4.89L₹4.69 lakh+ other charges,₹1.40 lakh, Gangwa Hisar Haryana
+2014 Maruti Wagon R 1.0,65622,Petrol,Manual,HR-26,"EMI ₹4,985/m*",₹2.50 lakh, Sector 17 Hisar Haryana
+2019 Maruti Swift,93697,CNG,Manual,HR-98,₹2.60L₹2.55 lakh+ other charges,₹3.50 lakh, Sundar Nagar Hisar Haryana
+2015 Tata Nano,82880,Petrol,Manual,HR-10,"EMI ₹6,443/m*",₹2.07 lakh, Patel Nagar Hisar Haryana
+2013 Maruti Ertiga,96827,Diesel,Manual,UP-13,₹3.65 lakh+ other charges,₹2.19 lakh, Mehta Nagar Hisar Haryana
+2015 Ford Figo Aspire,90006,Petrol,Manual,UP-25,"EMI ₹2,879/m*",₹2.98 lakh, Sector 13 Hisar Haryana
+2014 Maruti Alto 800,50456,Petrol,Manual,UP-80,₹2.42L₹1.63 lakh+ other charges,₹5.23 lakh, 66 66 Hisar
+2017 Maruti Dzire,140184,Diesel,Manual,HR-14,"EMI ₹5,517/m*",₹2.36 lakh, Urban Estate II Hisar Haryana
+2014 Maruti Swift Dzire,105045,Petrol,Manual,HR-10,₹2.69L₹2.48 lakh+ other charges,Account , HNO 16/C SCHOLAR COLONY GANGWA NEAR COMMUNITY CENTRE Hisar
+2014 Hyundai Eon,68703,Petrol,Manual,UP-23,"EMI ₹3,158/m*",Account , Krishna Nagar Colony Hisar Haryana
+2014 Maruti Wagon R 1.0,84547,Petrol,Manual,UP-80,₹1.79 lakh+ other charges,Account , Nera tikona park Friends colony Hisar Tikona park Hisar
+2014 Maruti Wagon R 1.0,95714,Petrol,Manual,DL-11,"EMI ₹6,620/m*",Account , Azad Nagar Hisar
+2021 Maruti Ertiga,17076,CNG,Manual,HR-14,₹3.90L₹3.75 lakh+ other charges,Account , hisar little angel school Hisar
+2012 Hyundai Eon,128947,Petrol,Manual,DL-12,"EMI ₹6,867/m*",Account , Friedns Colony Hisar Haryana
+2015 Hyundai i10,79903,Petrol,Manual,HR-51,₹3.43L₹3.09 lakh+ other charges,₹3.80 lakh, Mehta Nagar Mingni Khera Haryana
+2015 Datsun Go Plus,48735,Petrol,Manual,HR-36,"EMI ₹6,055/m*",₹7.00 lakh, Azad Nagar Hisar Hisar
+2016 Tata Indica EV2,42493,Petrol,Manual,HR-36,₹3.85L₹3.43 lakh+ other charges,₹1.18 lakh, Sarupgarh Charkhi Dadri
+2014 Maruti Celerio,81558,Petrol,Manual,HR-43,"EMI ₹8,895/m*",₹2.50 lakh, Sector 13 Hisar Haryana
+2021 Maruti Swift,62963,CNG,Manual,HR-36,₹5.01L₹4.55 lakh+ other charges,₹1.15 lakh, raj enterprises vpo mattershyam hisar b us stand Hisar
+2019 Maruti Swift,58358,CNG,Manual,HR-36,"EMI ₹7,242/m*",₹4.30 lakh, Azad Nagar Gangwa Haryana
+2023 Toyota Glanza,60527,Petrol,Manual,HR-35,₹3.70L₹2.75 lakh+ other charges,₹1.12 lakh, Maniram Godara college Fatehabad Haryana
+2019 Ford FREESTYLE,55165,Diesel,Manual,HR-36,"EMI ₹8,826/m*",₹1.00 lakh, Agrasain Colony Sirsa Haryana
+2015 Hyundai Eon,43518,Petrol,Manual,HR-36,₹5.64L₹5.00 lakh+ other charges,₹4.00 lakh, House no c 10 House no c 10 Sirsa
+2017 Renault Kwid,86916,Petrol,Manual,HR-26,"EMI ₹4,985/m*",₹2.13 lakh, Old Fatehabad Fatehabad Haryana
+2016 Maruti Swift,65394,Petrol,Manual,HR-36,₹2.60L₹2.55 lakh+ other charges,₹1.99 lakh, Professor Colony Fatehabad Haryana
+2022 Maruti Swift,66173,Petrol,Manual,HR-36,"EMI ₹12,024/m*",₹1.56 lakh, Bhima Basti Fatehabad Haryana
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,HR-76,₹4.57 lakh+ other charges,₹3.70 lakh, VILLAGE MAJRA POST FATEHABAD THANA FATEHABAD NEAR PLAY GROUND Fatehabad
+2019 Tata NEXON,43084,Petrol,Manual,HR-81,"EMI ₹9,515/m*",₹1.10 lakh, Near jai bharat high school Voo phool tamspura road Hisar
+2015 Honda Amaze,40807,Petrol,Manual,HR-19,₹4.28 lakh+ other charges,₹1.28 lakh, House no 2 House no 2 Fatehabad
+2022 Tata PUNCH,23927,Petrol,Manual,HR-26,"EMI ₹8,611/m*",₹11.60 lakh, Fatehabad Hisar Division HR
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,HR-36,₹4.91L₹3.27 lakh+ other charges,₹3.00 lakh, Old Fatehabad Fatehabad Haryana
+2019 Maruti Swift,57241,Petrol,Manual,HR-34,"EMI ₹8,404/m*",₹3.47 lakh," Dhani bhuna road, vpo Gorakhpur distt Fatehabad Gorakhpur"
+2018 Renault Kwid,62282,Petrol,Manual,RJ-02,₹5.11L₹4.76 lakh+ other charges,₹3.50 lakh, Model Town Fatehabad Haryana
+2016 Tata Tiago,79222,Petrol,Manual,HR-36,"EMI ₹4,801/m*",₹3.93 lakh, Batra Colony Fatehabad Haryana
+2019 Datsun Redi Go,34061,Petrol,Manual,HR-13,₹2.72 lakh+ other charges,Account , Jagjivan Pura Fatehabad Haryana
+2019 Maruti Swift,30678,Petrol,Manual,HR-13,"EMI ₹6,600/m*",Account , fatehabad haryana Fatehabad
+2022 Tata NEXON,48769,Petrol,Manual,HR-10,₹3.44L₹2.97 lakh+ other charges,₹1.10 lakh, On pawan kiryana store Hissar Haryana Sirsa
+2016 Hyundai Elite i20,65503,Petrol,Manual,HR-13,"EMI ₹3,737/m*",₹8.00 lakh, M.C. Colony Sirsa Haryana
+2019 Maruti Swift,58358,CNG,Manual,HR-13,₹1.79L₹1.68 lakh+ other charges,₹9.00 lakh, Ellenabad Sirsa Haryana
+2015 Hyundai Eon,43518,Petrol,Manual,HR-26,"EMI ₹9,774/m*",₹1.38 lakh, Sirsa Hisar Division Sirsa
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,HR-13,₹6.30L₹5.54 lakh+ other charges,₹1.90 lakh, Ellenabad Sirsa Haryana
+2015 Honda Amaze,40807,Petrol,Manual,UP-25,"EMI ₹13,847/m*",₹1.39 lakh, Sirsa Fatehabad Haryana
+2019 Maruti Swift,57241,Petrol,Manual,HR-95,₹8.96L₹8.09 lakh+ other charges,₹1.89 lakh, 111 Hotel wellen all rounder hissar road sirsa Khairpur chowky Sirsa
+2016 Tata Tiago,79222,Petrol,Manual,HR-13,"EMI ₹4,493/m*",₹1.12 lakh, Begu Rd Sirsa Haryana
+2019 Datsun Redi Go,34061,Petrol,Manual,HR-13,₹2.23L₹1.71 lakh+ other charges,₹3.78 lakh, UNITED CARGO MOVERS Preet Nagar Sirsa
+2019 Maruti Swift,30678,Petrol,Manual,HR-13,"EMI ₹6,083/m*",₹2.95 lakh, Ellenabad Sirsa Haryana
+2016 Hyundai Elite i20,65503,Petrol,Manual,HR-26,₹2.77L₹2.31 lakh+ other charges,₹1.18 lakh, Agrasain Colony Sirsa Haryana
+2015 Honda City,119495,Petrol,Manual,HR-13,"EMI ₹6,071/m*",₹2.85 lakh, M.C. Colony Sirsa
+2014 Hyundai Grand i10,58791,Petrol,Manual,UP-81,₹3.18L₹2.73 lakh+ other charges,₹1.08 lakh, Shastri Colony Sirsa
+2018 Datsun Redi Go,60114,CNG,Manual,HR-13,"EMI ₹5,024/m*",₹2.20 lakh, Sant Nagar Colony Sirsa
+2017 Maruti Wagon R 1.0,22695,Petrol,Manual,HR-32,₹2.57 lakh+ other charges,₹1.30 lakh, Shastri Colony Sirsa Haryana
+2024 KIA SONET,48161,Petrol,Manual,HR-12,"EMI ₹6,817/m*",₹1.40 lakh, Ellenabad Sirsa
+2019 Hyundai Grand i10,50600,Petrol,Manual,HR-20,₹4.07L₹3.86 lakh+ other charges,₹2.62 lakh, near Choudhary Nursing Home Sirsa Haryana
+2019 MG HECTOR,61573,Petrol,Manual,HR-20,"EMI ₹6,002/m*",₹3.60 lakh, Soni booking services chowk no- 3 suratgadia bazar beri wali gali sirsa
+2017 Maruti Swift,86606,Petrol,Manual,HR-05,₹3.57L₹3.40 lakh+ other charges,₹0.70 lakh, Railway Colony Sirsa Haryana
+2017 Maruti Swift,79321,Petrol,Manual,HR-20,"EMI ₹5,139/m*",₹2.79 lakh, Khanna Colony Sirsa Haryana
+2021 Tata PUNCH,50698,CNG,Manual,HR-26,₹3.15L₹2.91 lakh+ other charges,Account , Verma disposal part near bal Darmarth hospital Bhiwani Road jind Bhiwani road ajmer basti Jind
+2018 Maruti Wagon R 1.0,85527,Petrol,Manual,HR-20,"EMI ₹7,924/m*",Account , Amarheri Jind Haryana
+2021 Maruti Swift,62963,CNG,Manual,HR-23,₹4.49 lakh+ other charges,Account , Ashri Gate Jind Haryana
+2023 Toyota Glanza,60527,Petrol,Manual,HR-44,"EMI ₹7,897/m*",Account , Urban Estate Jind Haryana
+2019 Ford FREESTYLE,55165,Diesel,Manual,HR-20,₹3.79L₹3.55 lakh+ other charges,Account , V P O (khokhri) Jind Haryana Jind
+2017 Renault Kwid,86916,Petrol,Manual,HR-20,"EMI ₹8,120/m*",Account , Patiala Chowk Jind
+2016 Maruti Swift,65394,Petrol,Manual,HR-21,₹5.33L₹4.60 lakh+ other charges,Account , Barwala Barwala
+2022 Maruti Swift,66173,Petrol,Manual,HR-10,"EMI ₹7,918/m*",Account , Urban Estate Jind Haryana
+2019 Tata NEXON,43084,Petrol,Manual,HR-16,₹4.40L₹4.05 lakh+ other charges,Account , Ganesh Colony Bhuna
+2022 Tata PUNCH,23927,Petrol,Manual,HR-20,"EMI ₹9,542/m*",Account , Urban Estate Jind Haryana
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,HR-77,₹4.99L₹2.87 lakh+ other charges,Account , Scheme No 19 Jind Haryana
+2018 Renault Kwid,62282,Petrol,Manual,HR-20,"EMI ₹4,661/m*",Account , Police Lines Jind
+2022 Tata NEXON,48769,Petrol,Manual,UP-90,₹1.88L₹1.77 lakh+ other charges,₹5.93 lakh, Near Dalamwala Hospital Safidon road Jind
+2020 Renault TRIBER,42304,Petrol,Manual,HR-51,"EMI ₹2,991/m*",₹4.00 lakh, Jind Jind Rural Haryana
+2018 Tata Tiago,48065,Petrol,Manual,HR-51,₹2.39L₹1.53 lakh+ other charges,₹4.00 lakh, Scheme No 19 Jind Haryana
+2023 Volkswagen TAIGUN,58195,Petrol,Manual,HR-51,"EMI ₹7,452/m*",₹2.00 lakh, jind Haryana pin Jind
+2017 Hyundai Creta,70830,Petrol,Manual,HR-29,₹3.65L₹3.35 lakh+ other charges,₹4.12 lakh, Urban Estate Jind
+2019 Maruti Baleno,59035,Petrol,Manual,HR-16,"EMI ₹7,284/m*",₹0.52 lakh, Sector 26 Bhiwani Haryana
+2012 Maruti Alto 800,71627,CNG,Manual,HR-24,₹4.37L₹4.13 lakh+ other charges,₹3.20 lakh, HUDA Bhiwani Haryana
+2023 Tata PUNCH,78363,Petrol,Manual,HR-20,"EMI ₹10,025/m*",₹1.73 lakh, Birla Colony Bhiwani Haryana
+2016 Hyundai Creta,70369,Petrol,Manual,HR-94,₹2.13 lakh+ other charges,₹1.60 lakh, Bharat Nagar Bhiwani Haryana
+2023 Maruti Alto K10,68841,Petrol,Manual,HR-20,"EMI ₹7,326/m*",₹3.60 lakh, Ravidas mandir Ravidas mandir Bhiwani
+2020 KIA SELTOS,229444,Diesel,Manual,HR-30,₹4.25L₹4.15 lakh+ other charges,₹2.53 lakh, Krishna Colony Bhiwani Haryana
+2017 Hyundai Grand i10,98159,CNG,Manual,HR-26,"EMI ₹6,188/m*",₹1.52 lakh, Old Bharat Nagar Bhiwani Haryana
+2015 Maruti Swift,121002,Diesel,Manual,HR-24,₹2.40L₹2.35 lakh+ other charges,₹1.96 lakh, Paluwas Bhiwani Haryana
+2024 Renault TRIBER,43535,Petrol,Manual,HR-23,"EMI ₹8,279/m*",₹2.00 lakh, HUDA Bhiwani Haryana
+2018 Maruti Vitara Brezza,108527,Diesel,Manual,HR-24,₹4.89L₹4.69 lakh+ other charges,₹10.50 lakh, Pushp vatika wali gali Amar nagar tibba basti Bhiwani
+2016 Datsun Redi Go,48252,Petrol,Manual,HR-26,"EMI ₹6,443/m*",₹0.88 lakh, Bhiwani HR Bhiwani
+2015 Nissan Sunny,159744,Diesel,Manual,HR-44,₹3.65 lakh+ other charges,₹1.88 lakh, Haryana India JB gupta hospital
+2016 Maruti Vitara Brezza,135678,Diesel,Manual,HR-24,"EMI ₹2,879/m*",₹1.30 lakh, Surya Nagar Bhiwani Haryana
+2013 Maruti Ertiga,301653,Diesel,Manual,HR-24,₹2.42L₹1.63 lakh+ other charges,₹1.05 lakh, Vikas Nagar Bhiwani Haryana
+2021 KIA SONET,74716,Petrol,Manual,HR-51,"EMI ₹5,517/m*",₹1.97 lakh, Birla Colony Bhiwani Haryana
+2013 Maruti Swift,114962,Diesel,Manual,HR-13,₹2.69L₹2.48 lakh+ other charges,Account , Vidya Nagar Bhiwani Haryana
+2017 Renault Kwid,116105,Petrol,Manual,CH-01,"EMI ₹3,158/m*",Account , Vikas Nagar Bhiwani Haryana
+2015 Hyundai Creta,139278,Diesel,Manual,HR-33,₹1.79 lakh+ other charges,₹4.60 lakh, Near bawari gate Guru ji appatmnt .new preet vihar Bhiwani
+2016 Hyundai Elite i20,128243,Diesel,Manual,HR-29,"EMI ₹6,620/m*",₹4.05 lakh," Halu bazar, opppsite Anara Devi school"
+2014 Hyundai Verna,118431,Diesel,Manual,HR-51,₹3.90L₹3.75 lakh+ other charges,₹5.00 lakh, jagriti nagar tosham road shiv mandir gali near railway line bhiwani haryana Bhiwani
+2011 Volkswagen Polo,134393,Petrol,Manual,HR-31,"EMI ₹10,775/m*",₹2.87 lakh, Rajiv Gandhi Education City Rai Haryana
+2018 Hyundai Creta,210300,Diesel,Manual,HR-93,₹6.26L₹6.10 lakh+ other charges,₹1.77 lakh, Murthal Haryana India
+2016 Hyundai Elite i20,107574,Petrol,Manual,HR-51,"EMI ₹6,867/m*",₹1.53 lakh, Sector 15 Sonipat Haryana
+2019 Nissan Kicks,168885,Diesel,Manual,HR-31,₹3.43L₹3.09 lakh+ other charges,₹3.35 lakh, Thana kalan Thana Kalan
+2016 Maruti Baleno,79135,Petrol,Manual,HR-31,"EMI ₹6,055/m*",₹4.13 lakh, Near Delhi road Kharkhoda
+2023 Toyota Glanza,60527,Petrol,Manual,HR-06,₹3.85L₹3.43 lakh+ other charges,₹2.13 lakh, Tower 4 TDI espania Sonipat
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,HR-33,"EMI ₹5,633/m*",₹4.15 lakh, Ferozepur Khadar Rai Haryana
+2015 Hyundai Creta,66754,Petrol,Manual,HR-08,₹3.56L₹3.19 lakh+ other charges,₹2.35 lakh, 65 1st floor tdi tuscan city kundli Sonipat
+2016 Honda City,73377,Petrol,Manual,HR-31,"EMI ₹3,025/m*",₹4.69 lakh, Near kache quarter Near kache quarter Sonipat
+2015 Ford Ecosport,34404,Petrol,Manual,HR-90,₹1.36 lakh,₹2.55 lakh, Sector 15 Sonipat Haryana
+2022 Tata ALTROZ,77101,Petrol,Manual,HR-06,"EMI ₹7,108/m*",₹3.65 lakh, Patel Nagar Sonipat
+2022 Renault Kwid,48014,Petrol,Manual,HR-31,₹0.90L₹0.80 lakh,₹1.63 lakh, Ashok Vihar Sonipat Haryana
+2018 Maruti Celerio X,111639,CNG,Manual,HR-31,"EMI ₹4,148/m*",₹2.48 lakh, Sector 53 Sonipat Haryana
+2016 Renault Kwid,63291,Petrol,Manual,HR-13,₹2.35 lakh,₹1.79 lakh, Rajiv Gandhi Education City Sonipat
+2021 Hyundai VENUE,52976,Petrol,Manual,HR-14,"EMI ₹5,561/m*",₹3.75 lakh, Kundli Sonipat Haryana
+2023 Maruti XL6,81155,Petrol,Manual,HR-12,₹2.56L₹2.50 lakh,₹6.10 lakh, Dharminder cabel vali gali Sunder Sawri near dharminder cabel vali gali Sonipat
+2015 Hyundai i10,78856,Petrol,Manual,HR-02,Not available on EMI,₹3.09 lakh, pocket-3 sec-A-9 New Delhi
+2017 Maruti Wagon R 1.0,79242,CNG,Manual,HR-02,₹1.98 lakh,Account , Near kheri wala gas agency Old housing board cilony Sonipat
+2018 Tata Tiago,118576,Petrol,Manual,HR-12,"EMI ₹6,249/m*",₹4.05 lakh, Sonepat Sonepat Sonipat
+2017 Honda Jazz,91033,Petrol,Manual,HR-10,₹3.54 lakh,₹1.77 lakh, Model Town Sonipat Haryana
+2019 Tata NEXON,41924,Petrol,Manual,HR-18,"EMI ₹8,427/m*",₹2.13 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2020 Renault TRIBER,55224,Petrol,Manual,HR-10,₹3.20 lakh,₹2.35 lakh," Metro Walk, Rohini, New Delhi"
+2018 Hyundai Grand i10,41331,Petrol,Manual,HR-36,"EMI ₹10,609/m*",₹3.65 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022 Tata TIGOR,81872,CNG,Manual,HR-05,₹6.01 lakh,₹2.48 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2018 Tata NEXON,100474,CNG,Manual,HR-36,"EMI ₹9,217/m*",₹1.79 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2021 Maruti Swift,62963,CNG,Manual,HR-29,₹3.51L₹3.50 lakh,₹3.75 lakh," Wave One Mall, Sec-18, Noida"
+2019 Maruti Swift,58358,CNG,Manual,HR-13,"EMI ₹11,951/m*",₹3.09 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2019 Ford FREESTYLE,55165,Diesel,Manual,HR-10,₹6.77 lakh,₹2.75 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2015 Hyundai Eon,43518,Petrol,Manual,HR-29,"EMI ₹6,673/m*",₹1.81 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2017 Renault Kwid,86916,Petrol,Manual,HR-98,₹3.78 lakh,₹1.79 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2016 Maruti Swift,65394,Petrol,Manual,HR-31,"EMI ₹5,649/m*",₹2.33 lakh," Metro Walk, Rohini, New Delhi"
+2022 Maruti Swift,66173,Petrol,Manual,HR-05,₹3.50L₹3.20 lakh,₹7.25 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,HR-29,"EMI ₹8,965/m*",₹3.15 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2019 Tata NEXON,43084,Petrol,Manual,HR-12,₹4.03 lakh,₹7.69 lakh," Metro Walk, Rohini, New Delhi"
+2015 Honda Amaze,40807,Petrol,Manual,HR-08,"EMI ₹7,291/m*",₹2.80 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2022 Tata PUNCH,23927,Petrol,Manual,HR-51,₹4.13 lakh,₹2.50 lakh," Metro Walk, Rohini, New Delhi"
+2019 Maruti Swift,57241,Petrol,Manual,HR-22,"EMI ₹7,944/m*",₹4.65 lakh," Metro Walk, Rohini, New Delhi"
+2018 Renault Kwid,62282,Petrol,Manual,UK-07,₹4.64L₹4.50 lakh,₹2.65 lakh, DLF South Court Saket
+2016 Tata Tiago,79222,Petrol,Manual,HR-08,"EMI ₹10,344/m*",₹4.60 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2019 Datsun Redi Go,34061,Petrol,Manual,HR-08,₹5.21L₹4.65 lakh,₹5.00 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2019 Maruti Swift,30678,Petrol,Manual,HR-83,"EMI ₹18,458/m*",₹2.87 lakh," GT Road, Karnal"
+2022 Tata NEXON,48769,Petrol,Manual,HR-13,₹10.78 lakh,₹1.53 lakh," GT Road, Karnal"
+2016 Hyundai Elite i20,65503,Petrol,Manual,HR-70,"EMI ₹14,451/m*",₹3.35 lakh," GT Road, Karnal"
+2020 Renault TRIBER,42304,Petrol,Manual,HR-29,₹8.44 lakh,₹4.13 lakh," GT Road, Karnal"
+2018 Tata Tiago,48065,Petrol,Manual,HR-08,"EMI ₹49,210/m*",₹4.15 lakh," GT Road, Karnal"
+2012 Maruti Alto 800,69544,Petrol,Manual,HR-08,₹28.74 lakh,₹4.69 lakh," GT Road, Karnal"
+2014 Tata Zest,219885,Diesel,Manual,HR-08,"EMI ₹7,786/m*",₹2.55 lakh," GT Road, Karnal"
+2020 Ford Ecosport,119536,Diesel,Manual,HR-32,₹4.75L₹3.50 lakh,₹1.63 lakh," GT Road, Karnal"
+2020 Maruti Vitara Brezza,121391,CNG,Manual,HR-26,"EMI ₹6,311/m*",₹6.10 lakh," GT Road, Karnal"
+2015 Hyundai Elite i20,95229,CNG,Manual,HR-08,₹1.90 lakh,₹3.43 lakh," GT Road, Karnal"
+2022 Hyundai VENUE,101913,CNG,Manual,HR-26,"EMI ₹9,976/m*",₹3.19 lakh," GT Road, Karnal"
+2019 Toyota Innova Crysta,87481,Diesel,Manual,CH-01,₹3.00 lakh,₹6.88 lakh," GT Road, Karnal"
+2012 Maruti Wagon R 1.0,127973,Petrol,Manual,HR-08,"EMI ₹5,978/m*",₹4.55 lakh," GT Road, Karnal"
+2016 Maruti S Cross,147234,Diesel,Manual,HR-26,₹1.27 lakh,₹3.92 lakh," GT Road, Karnal"
+2013 Maruti Wagon R 1.0,49072,Petrol,Manual,HR-26,"EMI ₹6,443/m*",₹1.34 lakh," GT Road, Karnal"
+2020 Hyundai GRAND I10 NIOS,38026,Petrol,Manual,HR-20,₹3.65 lakh,₹4.79 lakh," GT Road, Karnal"
+2019 Maruti Swift,118137,Petrol,Manual,HR-02,"EMI ₹5,649/m*",₹3.67 lakh," GT Road, Karnal"
+2014 Maruti Ertiga,235225,Petrol,Manual,HR-02,₹1.20 lakh,₹3.26 lakh," GT Road, Karnal"
+2015 Hyundai Eon,126261,Petrol,Manual,HR-70,"EMI ₹6,477/m*",Account ," GT Road, Karnal"
+2012 Hyundai i10,145387,Petrol,Manual,HR-02,₹1.95 lakh,₹7.00 lakh," GT Road, Karnal"
+2017 Maruti Alto 800,94821,Petrol,Manual,HR-26,"EMI ₹7,238/m*",₹2.60 lakh, Ashoka Garden Colony Kaithal Haryana
+2025 Maruti New Wagon-R,18878,CNG,Manual,HR-02,₹5.00L₹4.10 lakh,₹3.00 lakh, Huda Kaithal Haryana
+2016 Maruti Alto 800,149000,CNG,Manual,HR-02,"EMI ₹10,027/m*",₹5.73 lakh, Huda Kaithal Haryana
+2023 Hyundai VENUE,89268,Petrol,Manual,HR-02,₹2.13 lakh,₹4.40 lakh, Friends Colony Kaithal Haryana
+2015 Honda Amaze,68468,CNG,Manual,HR-20,"EMI ₹4,226/m*",₹1.35 lakh, Ssec 21 763 on main road near gate 5 Kaithal
+2022 Maruti Swift,68868,CNG,Manual,HR-49,₹2.05L₹1.90 lakh,₹2.11 lakh, Patti Dogran Kaithal Haryana
+2016 Maruti Wagon R 1.0,73702,CNG,Manual,HR-02,"EMI ₹8,304/m*",₹4.00 lakh, Kaithal Bus Stand Road Manjhla Kaithal
+2015 Datsun Go Plus,135000,Petrol,Manual,HR-02,₹2.70L₹2.50 lakh,₹2.24 lakh, Huda Kaithal Haryana
+2017 Tata Tiago,188701,CNG,Manual,HR-70,"EMI ₹6,673/m*",₹6.00 lakh, Arjun Nagar Arjun Nagar Kaithal
+2018 Honda Amaze,110887,CNG,Manual,HR-15,₹3.51L₹3.00 lakh,₹2.90 lakh, 1666 Chiranjeev Colony Kaithal Park KAITHAL Kaithal
+2015 Maruti Swift,116650,CNG,Manual,HR-02,"EMI ₹5,984/m*",₹1.40 lakh, Industrial Area Kaithal Haryana
+2022 Tata ALTROZ,59907,CNG,Manual,HR-03,₹3.39 lakh,₹3.70 lakh, Adarsh Nagar Kaithal Haryana
+2013 Maruti Alto 800,70254,Petrol,Manual,HR-71,"EMI ₹8,802/m*",₹3.50 lakh, Huda Kaithal Haryana
+2015 Datsun Go Plus,133500,CNG,Manual,PB-65,₹2.80L₹2.65 lakh,₹2.70 lakh, Ashoka Garden Colony Kaithal Haryana
+2022 Maruti Celerio,92643,CNG,Manual,CH-01,"EMI ₹2,892/m*",₹0.95 lakh, Amar Garh Colony Kaithal Haryana
+2018 Maruti Swift,137939,CNG,Manual,PB-13,₹1.40L₹1.30 lakh,₹6.93 lakh, Chiranjeev Colony Kaithal Haryana
+2022 Maruti Baleno,117876,Petrol,Manual,CH-01,"EMI ₹7,913/m*",₹3.45 lakh, Janakpuri collony Janakpuri collony Kaithal
+2013 Hyundai Santro Xing,97424,CNG,Manual,PB-11,₹4.48 lakh,₹6.50 lakh, Near Community centre Near Community centre Kaithal
+2018 Maruti Alto K10,81483,CNG,Manual,HR-85,"EMI ₹8,664/m*",₹3.60 lakh, Patti Khot Kaithal Haryana
+2019 Hyundai NEW SANTRO,68917,CNG,Manual,CH-01,₹3.29 lakh,Account , Kaithal Haryana India Kaithal
+2018 Hyundai Creta,38188,Petrol,Manual,PB-30,"EMI ₹4,783/m*",₹5.00 lakh, Sec 9 Huda Ambala
+2018 Maruti Wagon R 1.0,64023,CNG,Manual,HR-29,₹2.35L₹2.15 lakh,₹2.55 lakh, Sector 9 Ambala City Haryana
+2024 KIA SONET,39395,Petrol,Manual,HR-54,"EMI ₹16,683/m*",₹4.57 lakh, Manmohan Nagar Ambala Haryana
+2018 Maruti Vitara Brezza,127319,Diesel,Manual,JK-02,₹8.00L₹7.50 lakh,₹4.28 lakh, 304 Housing Board colonyBaldev Nagar Locality :- Ambala city Ambala
+2016 Mahindra XUV500,93533,Diesel,Manual,CH-01,"EMI ₹8,968/m*",₹3.27 lakh, Durga Nagar Ambala City Haryana
+2022 Tata ALTROZ,90004,CNG,Manual,PB-08,₹2.70 lakh,₹4.76 lakh, 1245 Prabhu prem puram Zirakpur
+2022 Mahindra XUV700,126579,Petrol,Manual,HR-01,"EMI ₹9,773/m*",₹2.72 lakh, Distt ambala city Ambala
+2017 Tata TIGOR,59924,Petrol,Manual,CH-01,₹1.45L₹1.10 lakh,₹2.97 lakh, Ambala Sadar Ambala Cantt Haryana
+2023 Mahindra Thar,33108,Petrol,Manual,HR-51,"EMI ₹6,355/m*",₹1.68 lakh, Prem Nagar Ambala Haryana
+2015 Hyundai Grand i10,61626,Diesel,Manual,HR-08,₹1.35 lakh,₹5.54 lakh, Ambala Haryana India
+2016 Maruti Alto 800,89558,Petrol,Manual,HR-09,"EMI ₹12,234/m*",₹8.09 lakh, Haryana India Near bhagwati mandir
+2020 Maruti Alto,56184,Petrol,Manual,UP-25,₹5.90L₹5.50 lakh,₹1.71 lakh, Ambala cantt Landmark - Near shiv mandir Ambala
+2012 Maruti Wagon R 1.0,170860,Petrol,Manual,UP-23,"EMI ₹12,457/m*",₹2.31 lakh, Ambala Cantt Ambala Haryana
+2013 Hyundai i20,125150,Diesel,Manual,DL-12,₹5.60 lakh,₹2.73 lakh, Geeta Nagari Ambala Haryana
+2016 Maruti Alto 800,161503,Petrol,Manual,UP-85,"EMI ₹15,534/m*",₹2.57 lakh, BC Bazaar Ambala Cantt Haryana
+2020 Hyundai Creta,119593,Diesel,Manual,UP-86,₹3.48L₹3.30 lakh,₹3.86 lakh, Mahesh Nagar Ambala Cantt Haryana
+2014 Toyota Etios,173275,Diesel,Manual,UP-25,"EMI ₹14,837/m*",₹3.40 lakh, Vijay Nagar Ambala Haryana
+2015 Hyundai Grand i10,119013,Diesel,Manual,UP-16,₹6.67 lakh,₹2.91 lakh, Model Town Ambala Haryana
+2014 Hyundai Grand i10,121584,Diesel,Manual,UP-85,"EMI ₹19,607/m*",₹4.49 lakh, Jaggi Colony Ambala Haryana
+2018 Hyundai Elite i20,128495,Diesel,Manual,UP-12,₹11.45 lakh,₹3.55 lakh, Ambala Singanwala Haryana
+2012 Maruti Ritz,212995,Diesel,Manual,UP-16,"EMI ₹8,885/m*",₹4.60 lakh," Bestech Square Mall, Mohali"
+2017 Maruti Swift Dzire,65678,Diesel,Manual,HR-26,₹1.20L₹1.00 lakh,₹4.05 lakh," Bestech Square Mall, Mohali"
+2014 Maruti Alto K10,78242,Petrol,Manual,UP-14,"EMI ₹8,954/m*",₹2.87 lakh," Bestech Square Mall, Mohali"
+2012 Hyundai i10,96040,Petrol,Manual,UP-13,₹3.60L₹3.40 lakh,₹1.77 lakh," Bestech Square Mall, Mohali"
+2017 Renault Kwid,170107,Petrol,Manual,HR-26,"EMI ₹8,002/m*",₹1.53 lakh," Bestech Square Mall, Mohali"
+2012 Renault Duster,123949,Diesel,Manual,UP-80,₹1.70 lakh,₹3.35 lakh," Bestech Square Mall, Mohali"
+2013 Maruti Ritz,100317,Diesel,Manual,HR-14,"EMI ₹7,043/m*",₹4.13 lakh," Bestech Square Mall, Mohali"
+2012 Maruti Ritz,128963,Diesel,Manual,HR-10,₹4.00L₹3.99 lakh,₹2.13 lakh," Bestech Square Mall, Mohali"
+2017 Hyundai Creta,102752,Diesel,Manual,HR-72,"EMI ₹10,010/m*",₹4.15 lakh," Bestech Square Mall, Mohali"
+2012 Toyota Fortuner,167147,Diesel,Manual,UP-80,₹4.50 lakh,₹2.35 lakh," Bestech Square Mall, Mohali"
+2014 Hyundai i20,97496,Diesel,Manual,DL-11,"EMI ₹11,625/m*",₹4.69 lakh," Bestech Square Mall, Mohali"
+2023 Hyundai Verna,13632,Petrol,Manual,HR-14,₹3.67L₹3.50 lakh,₹3.65 lakh," Bestech Square Mall, Mohali"
+2011 Hyundai i10,98976,CNG,Manual,HR-51,"EMI ₹2,765/m*",₹1.63 lakh," Bestech Square Mall, Mohali"
+2017 Mahindra XUV500,125986,Diesel,Manual,HR-02,₹1.05 lakh,₹2.48 lakh," Bestech Square Mall, Mohali"
+2014 Honda Mobilio,138782,Diesel,Manual,UP-17,"EMI ₹8,885/m*",₹1.79 lakh," Bestech Square Mall, Mohali"
+2020 Maruti Alto,73358,CNG,Manual,UP-14,₹1.20L₹1.00 lakh,₹3.75 lakh," Bestech Square Mall, Mohali"
+2022 Renault TRIBER,135102,Petrol,Manual,UP-15,"EMI ₹2,987/m*",₹6.10 lakh," Bestech Square Mall, Mohali"
+2012 Nissan Micra,199038,Diesel,Manual,HR-95,₹1.53 lakh,₹3.09 lakh," Bestech Square Mall, Mohali"
+2015 Jaguar XF,104840,Diesel,Manual,UP-15,"EMI ₹10,062/m*",₹3.43 lakh," Bestech Square Mall, Mohali"
+2024 Maruti BREZZA,11607,Petrol,Manual,UP-14,₹5.70 lakh,₹3.19 lakh," Bestech Square Mall, Mohali"
+2018 Renault Duster,100754,Diesel,Manual,UP-14,"EMI ₹6,111/m*",Account , Vishwakarma Mohalla Yamuna Nagar Haryana
+2023 Mahindra SCORPIO-N,38836,Diesel,Manual,DL-10,₹1.84 lakh,Account , Green vihar colony Buria Road jagadhri Yamuna Nagar
+2020 KIA SELTOS,100771,Diesel,Manual,UP-14,"EMI ₹9,974/m*",Account , Harbanspura Colony Yamuna Nagar Haryana
+2017 Toyota Fortuner,158859,Diesel,Manual,HR-30,₹5.65 lakh,Account , Rampura Industrial Area Yamuna Nagar Haryana
+2011 Audi Q7,129576,Diesel,Manual,UP-16,"EMI ₹10,827/m*",Account , Lawyers chamber no A 309 near court complex Yamunanagar opposite anaj mandi jagadhri Huda sector 17 jagadhri Yamuna Nagar
+2021 Honda Amaze,120545,CNG,Manual,UP-13,₹2.30 lakh,₹1.10 lakh, 47PR+FH5 Yamuna Nagar Haryana
+2013 Maruti Wagon R 1.0,93049,CNG,Manual,HR-72,"EMI ₹10,638/m*",₹1.35 lakh, Model Town Yamuna Nagar Haryana
+2015 Renault Kwid,24000,Petrol,Manual,UP-15,₹6.03 lakh,₹5.50 lakh, Prem Colony Yamuna Nagar Haryana
+2011 Maruti Wagon R 1.0,84753,Petrol,Manual,UP-13,"EMI ₹10,007/m*",₹5.60 lakh, Yamuna Nagar Gadhauli Haryana
+2025 Hyundai NEW I20,11185,Petrol,Manual,UP-15,₹3.80 lakh,₹3.30 lakh, Opp.trikona park Opp.trikona park Yamuna Nagar
+2020 Hyundai Creta,135976,Diesel,Manual,HR-26,"EMI ₹10,010/m*",₹6.67 lakh, Raja garden jaroda gate Raja garden jaroda gate Jagadhri
+2013 Nissan Terrano,121136,Diesel,Manual,UP-14,₹4.70L₹4.50 lakh,₹11.45 lakh, Rampura Industrial Area Yamuna Nagar Haryana
+2017 Tata NEXON,153913,Diesel,Manual,UP-14,Not available on EMI,₹1.00 lakh, Gayatri public school Gayatri public school Raipur
+2017 Maruti Vitara Brezza,114602,Diesel,Manual,UP-14,₹1.00 lakh,₹3.40 lakh, Vishnu Nagar Yamuna Nagar Haryana
+2013 Hyundai Eon,115168,Petrol,Manual,UP-14,"EMI ₹12,004/m*",₹1.70 lakh, Yamuna Nagar Yamunanagar Haryana
+2018 Tata TIGOR,92793,Diesel,Manual,UP-15,₹6.80 lakh,₹3.99 lakh, Sector 35 Jagadhri Haryana
+2020 Hyundai Elite i20,87061,Petrol,Manual,UP-81,"EMI ₹7,061/m*",₹4.50 lakh, jagadhri workshop Yamuna Nagar
+2013 Maruti Ritz,101323,Diesel,Manual,UP-81,₹4.05L₹4.00 lakh,₹3.50 lakh, Farakhpur Yamuna Nagar Haryana
+2017 Honda WR-V,252995,Diesel,Manual,UP-81,"EMI ₹6,643/m*",₹1.05 lakh, Huda Jagadhri Haryana
+2018 Maruti Vitara Brezza,81599,Diesel,Manual,UP-85,₹2.00 lakh,₹1.00 lakh, Huda Yamuna Nagar Haryana
+2021 MG HECTOR PLUS,64711,Diesel,Manual,UP-86,"EMI ₹10,062/m*",₹1.53 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021 Jeep Compass,86579,Petrol,Manual,UP-81,₹5.70 lakh,₹5.70 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021 Tata Tiago,70448,CNG,Manual,UP-81,Not available on EMI,₹1.84 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2018 Maruti Wagon R 1.0,58764,Petrol,Manual,UP-81,₹1.25 lakh,₹5.65 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2019 Maruti Baleno,66791,Petrol,Manual,UP-70,"EMI ₹4,477/m*",₹2.30 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2023 Maruti Baleno,46071,Petrol,Manual,UP-81,₹1.70 lakh,Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2016 Ford Figo Aspire,68162,Petrol,Manual,UP-81,"EMI ₹15,993/m*",Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021 Tata NEXON,77764,Diesel,Manual,UP-79,₹1.80 lakh,Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2014 Honda Amaze,102204,Petrol,Manual,UP-81,"EMI ₹8,238/m*",₹5.66 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2020 Maruti S PRESSO,120704,Petrol,Manual,HR-51,₹1.80L₹1.75 lakh,₹2.31 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021 Tata Tiago,46320,Petrol,Manual,UP-16,"EMI ₹7,061/m*",₹1.37 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2020 Tata Tiago,40221,Petrol,Manual,UP-13,₹1.50 lakh,₹2.17 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021 Hyundai GRAND I10 NIOS,99475,CNG,Manual,UP-13,"EMI ₹6,355/m*",₹3.50 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2017 Hyundai Elite i20,42780,Petrol,Manual,UP-13,₹3.60 lakh,₹2.30 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2019 Honda Amaze,79195,Petrol,Manual,UP-14,"EMI ₹3,476/m*",₹3.50 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2019 Tata NEXON,97713,CNG,Manual,DL-14,₹1.32 lakh,₹1.20 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2023 MG ASTOR,28044,Petrol,Manual,UP-14,"EMI ₹10,780/m*",₹1.30 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2016 Maruti Alto 800,65898,Petrol,Manual,UP-13,₹2.29 lakh,₹4.56 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2022 Nissan MAGNITE,80226,Petrol,Manual,UP-13,"EMI ₹2,765/m*",₹3.60 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2017 Maruti Baleno,50569,Petrol,Manual,UP-16,₹1.05 lakh,₹4.85 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2014 Hyundai Grand i10,51501,Petrol,Manual,UP-13,"EMI ₹18,658/m*",₹1.07 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2022 Skoda SLAVIA,81928,Petrol,Manual,UP-86,₹2.10 lakh,₹2.51 lakh," Metro Walk, Rohini, New Delhi"
+2013 Renault Duster,131753,Diesel,Manual,DL-10,"EMI ₹5,695/m*",₹3.20 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2023 Tata NEXON,79406,Petrol,Manual,UP-83,₹2.56 lakh,₹7.15 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2015 Maruti Swift,145761,Diesel,Manual,UP-82,"EMI ₹11,411/m*",₹2.60 lakh," Wave One Mall, Sec-18, Noida"
+2017 Hyundai Creta,181445,CNG,Manual,UP-44,₹5.13 lakh,₹8.00 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2013 Nissan Sunny,83491,Diesel,Manual,UP-82,"EMI ₹9,991/m*",₹4.50 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2018 Mahindra XUV500,150809,Diesel,Manual,UP-84,₹5.66 lakh,₹3.50 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2018 Maruti Swift,202705,Petrol,Manual,UP-75,"EMI ₹7,673/m*",Account ," M3M Urbana, Golf Course Ext., Gurugram"
+2017 Maruti Swift Dzire,162094,Diesel,Manual,HR-26,₹2.40L₹2.31 lakh,Account ," Metro Walk, Rohini, New Delhi"
+2012 Hyundai i10,182606,CNG,Manual,UP-16,"EMI ₹3,608/m*",₹5.36 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2013 Nissan Sunny,138053,Diesel,Manual,UP-75,₹1.37 lakh,₹12.20 lakh," Metro Walk, Rohini, New Delhi"
+2013 Maruti Alto K10,138289,Petrol,Manual,UP-84,"EMI ₹5,714/m*",₹2.11 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2012 Renault Duster,157516,Diesel,Manual,UP-78,₹2.17 lakh,₹10.80 lakh," Metro Walk, Rohini, New Delhi"
+2019 Mahindra MARAZZO,161725,Diesel,Manual,UP-32,"EMI ₹7,786/m*",₹1.99 lakh," Metro Walk, Rohini, New Delhi"
+2019 Honda Amaze,84691,Petrol,Manual,UP-14,₹3.50 lakh,₹1.66 lakh, DLF South Court Saket
+2022 Tata PUNCH,38856,Petrol,Manual,UP-25,"EMI ₹10,827/m*",₹2.23 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2014 Ford Ecosport,112193,Diesel,Manual,UP-84,₹2.80L₹2.30 lakh,₹1.08 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2017 Maruti Vitara Brezza,80374,Diesel,Manual,UP-80,"EMI ₹6,178/m*",₹1.70 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2011 Maruti Alto K10,81210,Petrol,Manual,UP-14,₹3.70L₹3.50 lakh,₹1.65 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2023 Maruti New Wagon-R,100080,Petrol,Manual,UP-75,"EMI ₹5,649/m*",₹6.76 lakh, 12.4 km away Partapur Meerut
+2022 KIA SONET,141215,Petrol,Manual,BR-01,₹1.20 lakh,₹2.21 lakh, 12.4 km away Partapur Meerut Uttar Pradesh
+2019 Maruti Alto K10,29343,Petrol,Manual,UP-65,"EMI ₹6,120/m*",₹1.50 lakh, 14.2 km away Rithani Meerut
+2016 Maruti Swift,100403,Petrol,Manual,UP-65,₹1.30 lakh,₹1.60 lakh, 14.4 km away Ansal's Sushant City Meerut Uttar Pradesh
+2015 Renault Kwid,79381,Petrol,Manual,UP-67,"EMI ₹8,050/m*",₹2.95 lakh, 14.6 km away Ansal's Sushant City Meerut Uttar Pradesh
+2013 Toyota Etios Liva,284775,Diesel,Manual,UP-65,₹4.80L₹4.56 lakh,₹1.30 lakh, 3.7 km away Sikrikala Modinagar
+2019 Maruti Swift,86111,Petrol,Manual,UP-65,"EMI ₹8,008/m*",₹4.20 lakh, 7.3 km away Kumhali patti Kalchhina
+2013 Nissan Micra,81568,Petrol,Manual,UP-65,₹3.60 lakh,₹1.72 lakh, 9.3 km away Malik Nagar Muradnagar
+2015 Ford Ecosport,168000,Diesel,Manual,UP-70,"EMI ₹10,789/m*",₹1.00 lakh, 9.4 km away Old Muradnagar Muradnagar
+2019 Mahindra MARAZZO,173291,Diesel,Manual,UP-62,₹4.85 lakh,₹1.15 lakh, 10.0 km away Brij Vihar Colony Muradnagar
+2014 Maruti Swift,148666,Diesel,Manual,UP-32,Not available on EMI,Account , 0.2 km away Ghaziabad Uttar Pradesh India
+2018 Hyundai Verna,54857,Diesel,Manual,UP-65,₹1.07 lakh,Account , 0.5 km away Tulsi Ram Maheshwari Public School Modinagar Uttar Pradesh
+2012 Renault Duster,99289,Diesel,Manual,UP-64,"EMI ₹5,583/m*",₹1.50 lakh, 0.8 km away Modi Bhawan Modinagar Uttar Pradesh
+2015 Maruti Swift,193511,Diesel,Manual,UP-65,₹2.51 lakh,₹1.40 lakh, 0.8 km away Bhrampuri Modinagar Uttar Pradesh
+2014 Honda City,98344,Diesel,Manual,UP-65,"EMI ₹6,256/m*",₹1.04 lakh, 0.9 km away Bholapuri Pilkhuwa Uttar Pradesh
+2017 Tata NEXON,82368,Petrol,Manual,HR-51,₹3.20 lakh,₹4.90 lakh, 22.8 km away Shri Nagar Hapur
+2023 Maruti Ertiga,159082,CNG,Manual,UP-61,"EMI ₹12,622/m*",₹6.30 lakh, 22.8 km away Bulandshahr Road Industrial Area Ghaziabad Uttar Pradesh
+2017 Maruti S Cross,76545,Diesel,Manual,UP-80,₹7.50L₹7.15 lakh,₹2.20 lakh, 34.2 km away Bullandshar Bairangpur Urf Naibasti
+2011 Hyundai i20,113600,Diesel,Manual,UP-32,"EMI ₹5,784/m*",₹9.60 lakh, 52.7 km away बूर नगर बुलंदशहर
+2014 Honda Amaze,112060,Diesel,Manual,UP-65,₹2.70L₹2.60 lakh,₹1.00 lakh, 52.7 km away Bulandshahar Bulandshahr Uttar Pradesh
+2015 Honda Amaze,168653,Diesel,Manual,UP-78,"EMI ₹13,698/m*",₹5.21 lakh, 18.2 km away Devshree Heights Meerut
+2017 Tata Tiago,54187,Petrol,Manual,UP-78,₹8.55L₹8.00 lakh,₹1.85 lakh, 20.1 km away Ghaziabad Uttar Pradesh India
+2023 KIA SELTOS,24049,Petrol,Manual,UP-78,"EMI ₹10,010/m*",₹2.50 lakh, 20.5 km away Raj Nagar Extension Ghaziabad
+2015 Volkswagen Polo,103616,Diesel,Manual,UP-70,₹5.00L₹4.50 lakh,₹2.90 lakh, 20.9 km away Near Policeline Greater Noida Ghaziabad
+2011 Toyota Etios,131039,Petrol,Manual,UP-32,"EMI ₹9,217/m*",₹1.00 lakh, 21.1 km away Raj Nagar Extension Ghaziabad Uttar Pradesh
+2014 Toyota Innova,192912,Diesel,Manual,UP-78,₹3.50 lakh,₹5.15 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2016 Maruti Vitara Brezza,147835,Diesel,Manual,UP-32,"EMI ₹9,003/m*",₹11.20 lakh," Wave One Mall, Sec-18, Noida"
+2020 Hyundai VENUE,75807,Petrol,Manual,UP-32,₹5.10 lakh,₹4.55 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2016 Renault Kwid,53265,Petrol,Manual,UP-32,Not available on EMI,₹16.10 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2025 Maruti Swift,13085,Petrol,Manual,UP-32,₹1.19 lakh,₹10.30 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2019 Renault Kwid,52006,Petrol,Manual,UP-32,Not available on EMI,₹18.80 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2016 Maruti Alto K10,74169,Petrol,Manual,UP-32,₹4.70 lakh,₹4.47 lakh," Wave One Mall, Sec-18, Noida"
+2012 Renault Duster,126306,Diesel,Manual,UP-79,Not available on EMI,Account ," Gaur City mall, Multilevel parking, Greater Noida"
+2012 Hyundai New Elantra,125000,Diesel,Manual,UP-78,₹1.70 lakh,Account ," Wave One Mall, Sec-18, Noida"
+2021 Maruti XL6,159061,Petrol,Manual,UP-25,"EMI ₹5,083/m*",₹4.70 lakh," Wave One Mall, Sec-18, Noida"
+2012 Volkswagen Polo,70089,Petrol,Manual,UP-75,₹2.60 lakh,₹1.36 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2020 Hyundai GRAND I10 NIOS,38335,Petrol,Manual,UP-65,"EMI ₹15,193/m*",₹1.20 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2016 Maruti Swift,13644,Petrol,Manual,UP-65,₹1.71 lakh,₹0.73 lakh," Wave One Mall, Sec-18, Noida"
+2017 Volvo S60,101874,Diesel,Manual,UP-66,Not available on EMI,₹7.00 lakh," Wave One Mall, Sec-18, Noida"
+2014 Hyundai Santro Xing,89972,CNG,Manual,UP-70,₹1.75L₹1.65 lakh,₹6.50 lakh," Wave One Mall, Sec-18, Noida"
+2014 Datsun Go,142142,Petrol,Manual,UP-70,"EMI ₹3,687/m*",₹1.36 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2018 Renault Kwid,82193,Petrol,Manual,UP-70,₹1.49L₹1.40 lakh,₹3.30 lakh," Wave One Mall, Sec-18, Noida"
+2019 Ford FREESTYLE,55165,Diesel,Manual,UP-14,"EMI ₹2,892/m*",₹4.75 lakh," Gaur City mall, Multilevel parking, Greater Noida"
+2022 Tata PUNCH,23927,Petrol,Manual,UP-70,₹1.54L₹1.30 lakh,₹1.08 lakh," Wave One Mall, Sec-18, Noida"
+2020 Renault TRIBER,42304,Petrol,Manual,UP-70,"EMI ₹9,951/m*",₹3.00 lakh," Wave One Mall, Sec-18, Noida"
+2016 Hyundai Creta,70369,Petrol,Manual,UP-70,₹1.12 lakh,₹5.15 lakh," Metro Walk, Rohini, New Delhi"
+2023 Maruti Alto K10,68841,Petrol,Manual,UP-14,"EMI ₹6,620/m*",₹1.94 lakh," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022 Skoda SLAVIA,59236,Petrol,Manual,UP-71,₹3.75 lakh,₹3.50 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2024 MG HECTOR PLUS,21040,Diesel,Manual,UP-32,Not available on EMI,₹4.90 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2017 Datsun Redi Go,42708,Petrol,Manual,UP-32,₹0.75 lakh,₹11.00 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2015 Honda City,102351,Petrol,Manual,UP-72,"EMI ₹3,003/m*",₹11.58 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2022 Honda City,67065,Hybrid,Manual,UP-65,₹1.35 lakh,Account ," M3M Urbana, Golf Course Ext., Gurugram"
+2022 MG HECTOR,3910,Petrol,Manual,UP-70,"EMI ₹8,803/m*",Account ," Metro Walk, Rohini, New Delhi"
+2018 Jeep Compass,79915,Petrol,Manual,UP-44,₹1.87 lakh,Account ," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2023 Maruti BREZZA,51609,Petrol,Manual,UP-44,Not available on EMI,Account ," Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2020 Tata Tiago,66022,Petrol,Manual,UP-13,₹1.88 lakh,Account ," Metro Walk, Rohini, New Delhi"
+2016 Maruti Baleno,39394,Petrol,Manual,DL-10,"EMI ₹8,898/m*",Account ," Metro Walk, Rohini, New Delhi"
+2016 Hyundai Creta,69960,Petrol,Manual,UP-16,₹4.10L₹4.00 lakh,Account ," Metro Walk, Rohini, New Delhi"
+2017 Tata Tiago,73667,Petrol,Manual,UP-17,"EMI ₹12,357/m*",₹4.44 lakh, DLF South Court Saket
+2016 Hyundai Creta,13317,Petrol,Manual,UP-17,₹7.00 lakh,₹2.51 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2023 Mahindra Thar,60308,Petrol,Manual,UP-78,"EMI ₹9,189/m*",₹4.50 lakh," Radisson Blu, Sector 13, Dwarka, New Delhi"
+2021 Renault TRIBER,66996,Petrol,Manual,UP-17,₹4.70 lakh,₹5.61 lakh," GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021 Maruti Swift,62963,CNG,Manual,UP-15,"EMI ₹13,347/m*",₹2.60 lakh," M3M Urbana, Golf Course Ext., Gurugram"
+2019 Maruti Swift,58358,CNG,Manual,UP-17,₹7.20L₹6.00 lakh,₹5.58 lakh," Udyog Vihar, Sector 18, Gurgaon"
+2023 Toyota Glanza,60527,Petrol,Manual,UP-17,Not available on EMI,₹2.11 lakh, Rajouri Garden
+2015 Hyundai Eon,43518,Petrol,Manual,UP-32,₹0.75L₹0.72 lakh,₹2.62 lakh, Aligarh Muslim University Aligarh Uttar Pradesh
+2017 Renault Kwid,86916,Petrol,Manual,UP-63,"EMI ₹8,120/m*",₹4.42 lakh, Dodhpur Aligarh
+2016 Maruti Swift,65394,Petrol,Manual,UP-65,₹5.33L₹4.60 lakh+ other charges,₹3.54 lakh, Badar Bagh Aligarh
+2022 Maruti Swift,66173,Petrol,Manual,UP-64,"EMI ₹7,918/m*",₹4.61 lakh, Bank Colony Aligarh Uttar Pradesh
+2015 Maruti Wagon R 1.0,65974,CNG,Manual,UP-66,₹4.40L₹4.05 lakh+ other charges,₹4.14 lakh, S.S Nagar Aligarh
+2019 Tata NEXON,43084,Petrol,Manual,CG-30,"EMI ₹8,826/m*",₹3.59 lakh, Hem Chand Compound Aligarh
+2015 Honda Amaze,40807,Petrol,Manual,CG-15,₹5.64L₹5.00 lakh+ other charges,₹4.91 lakh, Hem Chand Compound Aligarh Uttar Pradesh
+2017 Maruti Wagon R 1.0,43479,Petrol,Manual,UP-53,"EMI ₹9,542/m*",₹7.77 lakh, Manjur Garhi Aligarh
+2019 Maruti Swift,57241,Petrol,Manual,JH-01,₹4.99L₹2.87 lakh+ other charges,₹1.91 lakh, Sita ram street Khirnigate Aligarh
+2018 Renault Kwid,62282,Petrol,Manual,MP-20,"EMI ₹4,661/m*",₹5.21 lakh, Vinay nagar colony Shanti lata clinic Aligarh
+2016 Tata Tiago,79222,Petrol,Manual,MP-66,₹1.88L₹1.77 lakh+ other charges,₹3.65 lakh, Naya Nagla Gohana Bijahari
+2019 Datsun Redi Go,34061,Petrol,Manual,MP-53,"EMI ₹2,991/m*",₹2.27 lakh, Civil Lines Aligarh
+2019 Maruti Swift,30678,Petrol,Manual,MP-07,₹2.39L₹1.53 lakh+ other charges,₹8.08 lakh, Zohra Bagh Jeevangarh Aligarh
+2022 Tata NEXON,48769,Petrol,Manual,MP-17,"EMI ₹7,452/m*",Account , Surendra Nagar Aligarh Uttar Pradesh
+2016 Hyundai Elite i20,65503,Petrol,Manual,MP-17,₹3.65L₹3.35 lakh+ other charges,Account , 303 3rd floor Al Aziz Apartment Medical Road Aligarh PNB Bank Aligarh
+2018 Tata Tiago,48065,Petrol,Manual,UP-61,"EMI ₹7,284/m*",₹1.20 lakh, Aligarh Muslim University Aligarh Uttar Pradesh
+2023 Volkswagen TAIGUN,58195,Petrol,Manual,UP-63,₹4.37L₹4.13 lakh+ other charges,₹9.80 lakh, Krishna Nagar Iglas
+2011 Maruti Alto,54943,Petrol,Manual,UP-70,"EMI ₹10,025/m*",₹2.00 lakh, S.S Nagar Aligarh
+2019 Ford New Figo,150156,Diesel,Manual,UP-70,₹2.13 lakh+ other charges,₹4.50 lakh, Manjur Garhi Aligarh Uttar Pradesh
+2011 Nissan Sunny,75259,Petrol,Manual,BR-02,"EMI ₹7,326/m*",₹1.45 lakh, Sector 75 Faridabad Haryana
+2018 Jeep Compass,86231,Diesel,Manual,BR-02,₹4.25L₹4.15 lakh+ other charges,₹5.50 lakh, Sainik Vihar Agra Uttar Pradesh
+2021 Maruti Swift,66865,Petrol,Manual,WB-02,"EMI ₹6,188/m*",₹3.70 lakh, Dholpura Firozabad
+2025 Maruti Dzire,19489,CNG,Manual,BR-02,₹2.40L₹2.35 lakh+ other charges,₹3.64 lakh, Tajganj Agra Uttar Pradesh
+2017 Maruti Dzire,120000,Diesel,Manual,BR-02,"EMI ₹8,279/m*",₹1.30 lakh, mauza 100a lakhanpur Agra
+2013 Hyundai Eon,83204,Petrol,Manual,UP-25,₹4.89L₹4.69 lakh+ other charges,₹1.29 lakh, Rakabganj Agra Uttar Pradesh
+2013 Maruti Wagon R 1.0,114000,CNG,Manual,UP-25,"EMI ₹4,985/m*",₹1.42 lakh, Shahganj Agra Uttar Pradesh
+2012 Hyundai i10,50036,Petrol,Manual,UP-11,₹2.60L₹2.55 lakh+ other charges,₹2.00 lakh, Agra Anupam Daffodil Agra
+2013 Maruti Swift Dzire,95450,Petrol,Manual,UP-16,"EMI ₹6,443/m*",₹5.60 lakh, Agra Agra Uttar Pradesh
+2015 Hyundai Elite i20,29811,Petrol,Manual,UP-70,₹3.65 lakh+ other charges,₹3.98 lakh, Narayan petrol pump Pachgain Khera
+2015 Honda Amaze,160230,CNG,Manual,HR-26,"EMI ₹2,879/m*",₹4.96 lakh, Civil Lines Agra Uttar Pradesh
+2016 Maruti Wagon R 1.0,97837,CNG,Manual,UP-11,₹2.42L₹1.63 lakh+ other charges,₹2.50 lakh, Kamla Nagar Agra Uttar Pradesh
+2013 Maruti Swift Dzire,108834,Petrol,Manual,UP-12,"EMI ₹5,517/m*",₹4.45 lakh, 26/7 Sultan ganj Agra
+2018 Premier Rio,61205,Petrol,Manual,UP-12,₹2.69L₹2.48 lakh+ other charges,₹1.19 lakh, Kala Kunj Agra Uttar Pradesh
+2012 Maruti Wagon R 1.0,72554,Petrol,Manual,UK-17,"EMI ₹3,158/m*",₹3.75 lakh, Arjun Nagar Agra Uttar Pradesh
+2018 Maruti Dzire,83692,Petrol,Manual,UP-16,₹1.79 lakh+ other charges,₹7.10 lakh, Agra Bainpur Mustkil Uttar Pradesh
+2011 Maruti Alto,87106,Petrol,Manual,HR-10,"EMI ₹6,620/m*",Account , Shamsabad Agra Uttar Pradesh
+2021 Hyundai NEW I20,52530,Petrol,Manual,UP-12,₹3.90L₹3.75 lakh+ other charges,Account , Kahrai Agra Uttar Pradesh
+2023 Maruti FRONX,44588,Petrol,Manual,UP-16,"EMI ₹10,775/m*",₹3.20 lakh, Hno 4 Brijdham phase 2 Agra
+2020 Hyundai VENUE,92298,Petrol,Manual,UP-12,₹6.26L₹6.10 lakh+ other charges,₹3.67 lakh, Sanjay Place Hariparwat thana Agra
+2022 Mahindra Thar,72512,Diesel,Manual,UP-51,"EMI ₹6,867/m*",₹1.10 lakh, Shahganj Agra Uttar Pradesh
+2017 Ford Ecosport,174828,Diesel,Manual,UP-57,₹3.43L₹3.09 lakh+ other charges,₹2.30 lakh, Kanker khera Kankar Khera
+2011 Maruti Wagon R 1.0,132071,CNG,Manual,UP-51,"EMI ₹9,462/m*",₹3.70 lakh, Ali Nagar Naugawan Sadat
+2012 Maruti Wagon R 1.0,116387,CNG,Manual,UP-32,₹5.36 lakh,₹1.50 lakh, Moradabad Uttar Pradesh India
+2016 Maruti Alto K10,57825,Petrol,Manual,UP-85,"EMI ₹26,526/m*",₹2.60 lakh, kaloni Amroha
+2017 Maruti Vitara Brezza,96758,Diesel,Manual,UP-58,₹12.20 lakh,₹6.06 lakh, Ekta Colony Moradabad Uttar Pradesh
+2016 Maruti Ertiga,222000,CNG,Manual,UP-32,"EMI ₹4,125/m*",₹2.65 lakh, Buddhi Vihar Moradabad
+2016 Renault Kwid,150807,Petrol,Manual,UP-16,₹2.21L₹2.11 lakh,₹5.50 lakh, Ram Ganga Vihar Moradabad
+2013 Maruti Alto 800,68096,Petrol,Manual,HR-26,"EMI ₹18,492/m*",₹1.63 lakh, Majhola Thakurdwara Uttar Pradesh
+2013 Toyota Etios Liva,61315,Petrol,Manual,UP-51,₹11.10L₹10.80 lakh,₹2.41 lakh, B-1 Malviya Nagar Near Chadha Cinema Moradabad Moradabad
+2013 Maruti Alto 800,61048,Petrol,Manual,UP-32,"EMI ₹6,610/m*",₹2.50 lakh, Naveen Nagar Moradabad
+2013 Hyundai i10,66283,Petrol,Manual,UP-32,₹2.00L₹1.99 lakh,₹3.02 lakh, 1087 1087 Moradabad
+2013 Maruti Wagon R 1.0,100350,Petrol,Manual,UP-32,"EMI ₹3,693/m*",₹10.86 lakh, Mohra Ki Milak Moradabad
+2020 Renault TRIBER,74381,Petrol,Manual,BR-28,₹1.66 lakh,₹3.83 lakh, Islam Nagar Noorpur
+2015 Maruti Swift Dzire,296980,Diesel,Manual,BR-05,"EMI ₹3,937/m*",₹1.04 lakh, Karula Moradabad
+2016 Maruti Vitara Brezza,55907,Diesel,Manual,BR-07,₹2.29L₹2.23 lakh,₹1.92 lakh, Moradabad Godhi
+2019 Mahindra XUV500,88964,Diesel,Manual,BR-01,"EMI ₹9,596/m*",₹2.20 lakh, Khushhalpur Moradabad
