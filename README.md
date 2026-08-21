@@ -294,7 +294,7 @@ Develop more detailed analysis to understand how mileage, registration, location
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cars24-used-car-analysis.git
+git clone https://github.com/koushik-badineni/cars24-used-car-analysis.git
 ```
 
 ### 2. Navigate to the Project
